@@ -1,0 +1,1073 @@
+[INFO] 2022-08-16 09:03:41,110 [MainThread:4729542144] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[WARNING] 2022-08-16 09:05:58,471 [Thread-1:123145446875136] [django.request:241] [log:log_response] - Not Found: /api/users/register
+[WARNING] 2022-08-16 09:05:58,472 [Thread-1:123145446875136] [django.server:187] [basehttp:log_message] - "POST /api/users/register HTTP/1.1" 404 2133
+[INFO] 2022-08-16 09:07:07,684 [MainThread:4444153344] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[WARNING] 2022-08-16 09:07:11,364 [Thread-1:123145413324800] [django.request:241] [log:log_response] - Not Found: /api/users/register
+[WARNING] 2022-08-16 09:07:11,365 [Thread-1:123145413324800] [django.server:187] [basehttp:log_message] - "POST /api/users/register HTTP/1.1" 404 2133
+[WARNING] 2022-08-16 09:07:59,355 [Thread-1:123145413324800] [django.request:241] [log:log_response] - Not Found: /api/users/register
+[WARNING] 2022-08-16 09:07:59,356 [Thread-1:123145413324800] [django.server:187] [basehttp:log_message] - "POST /api/users/register HTTP/1.1" 404 2133
+[INFO] 2022-08-16 09:12:19,740 [MainThread:4524992000] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-16 09:13:44,905 [MainThread:4609766912] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[WARNING] 2022-08-16 09:14:23,729 [Thread-1:123145430941696] [django.request:241] [log:log_response] - Not Found: /api/users/register
+[WARNING] 2022-08-16 09:14:23,730 [Thread-1:123145430941696] [django.server:187] [basehttp:log_message] - "GET /api/users/register HTTP/1.1" 404 2132
+[WARNING] 2022-08-16 09:14:37,490 [Thread-2:123145447731200] [django.request:241] [log:log_response] - Not Found: /api/docs
+[WARNING] 2022-08-16 09:14:37,490 [Thread-2:123145447731200] [django.server:187] [basehttp:log_message] - "GET /api/docs HTTP/1.1" 404 2102
+[WARNING] 2022-08-16 09:14:37,554 [Thread-2:123145447731200] [django.request:241] [log:log_response] - Not Found: /favicon.ico
+[WARNING] 2022-08-16 09:14:37,555 [Thread-2:123145447731200] [django.server:187] [basehttp:log_message] - "GET /favicon.ico HTTP/1.1" 404 2111
+[INFO] 2022-08-16 09:17:58,058 [MainThread:4603811328] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[WARNING] 2022-08-16 09:18:03,308 [Thread-1:123145460756480] [django.request:241] [log:log_response] - Not Found: /api/docs
+[WARNING] 2022-08-16 09:18:03,309 [Thread-1:123145460756480] [django.server:187] [basehttp:log_message] - "GET /api/docs HTTP/1.1" 404 2102
+[INFO] 2022-08-16 09:18:35,742 [MainThread:4603811328] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/backend/settings.py changed, reloading.
+[INFO] 2022-08-16 09:19:18,250 [MainThread:4800271872] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[WARNING] 2022-08-16 09:19:25,295 [Thread-1:123145517735936] [django.request:241] [log:log_response] - Not Found: /api/docs
+[WARNING] 2022-08-16 09:19:25,296 [Thread-1:123145517735936] [django.server:187] [basehttp:log_message] - "GET /api/docs HTTP/1.1" 404 2102
+[WARNING] 2022-08-16 09:19:26,438 [Thread-1:123145517735936] [django.request:241] [log:log_response] - Not Found: /api/docs
+[WARNING] 2022-08-16 09:19:26,438 [Thread-1:123145517735936] [django.server:187] [basehttp:log_message] - "GET /api/docs HTTP/1.1" 404 2102
+[WARNING] 2022-08-16 09:19:26,705 [Thread-1:123145517735936] [django.request:241] [log:log_response] - Not Found: /api/docs
+[WARNING] 2022-08-16 09:19:26,705 [Thread-1:123145517735936] [django.server:187] [basehttp:log_message] - "GET /api/docs HTTP/1.1" 404 2102
+[WARNING] 2022-08-16 09:19:26,954 [Thread-1:123145517735936] [django.request:241] [log:log_response] - Not Found: /api/docs
+[WARNING] 2022-08-16 09:19:26,954 [Thread-1:123145517735936] [django.server:187] [basehttp:log_message] - "GET /api/docs HTTP/1.1" 404 2102
+[WARNING] 2022-08-16 09:19:27,237 [Thread-1:123145517735936] [django.request:241] [log:log_response] - Not Found: /api/docs
+[WARNING] 2022-08-16 09:19:27,238 [Thread-1:123145517735936] [django.server:187] [basehttp:log_message] - "GET /api/docs HTTP/1.1" 404 2102
+[INFO] 2022-08-16 09:20:27,166 [MainThread:4800271872] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/backend/urls.py changed, reloading.
+[INFO] 2022-08-16 09:20:27,585 [MainThread:4560025088] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-16 09:20:30,715 [MainThread:4560025088] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/backend/urls.py changed, reloading.
+[INFO] 2022-08-16 09:20:31,162 [MainThread:4437177856] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-16 09:20:41,046 [Thread-1:123145440292864] [django.server:187] [basehttp:log_message] - "GET /api/docs HTTP/1.1" 200 788
+[INFO] 2022-08-16 09:20:41,206 [Thread-1:123145440292864] [django.server:187] [basehttp:log_message] - "GET /api/openapi.json HTTP/1.1" 200 2054
+[WARNING] 2022-08-16 09:20:53,473 [Thread-3:123145473871872] [django.request:241] [log:log_response] - Method Not Allowed: /api/users/register
+[WARNING] 2022-08-16 09:20:53,474 [Thread-3:123145473871872] [django.server:187] [basehttp:log_message] - "GET /api/users/register HTTP/1.1" 405 18
+[WARNING] 2022-08-16 09:20:57,685 [Thread-3:123145473871872] [django.request:241] [log:log_response] - Unprocessable Entity: /api/users/register
+[WARNING] 2022-08-16 09:20:57,686 [Thread-3:123145473871872] [django.server:187] [basehttp:log_message] - "POST /api/users/register HTTP/1.1" 422 118
+[INFO] 2022-08-16 09:21:16,757 [Thread-3:123145473871872] [django.server:187] [basehttp:log_message] - "POST /api/users/register HTTP/1.1" 200 96
+[INFO] 2022-08-16 09:22:28,966 [MainThread:4437177856] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/users/api.py changed, reloading.
+[INFO] 2022-08-16 09:22:29,401 [MainThread:4467684864] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-16 09:23:48,632 [MainThread:4467684864] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/users/api.py changed, reloading.
+[INFO] 2022-08-16 09:23:49,049 [MainThread:4513830400] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-16 09:24:03,559 [MainThread:4513830400] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/users/api.py changed, reloading.
+[INFO] 2022-08-16 09:24:03,990 [MainThread:4681893376] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-16 09:25:12,052 [MainThread:4681893376] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/users/api.py changed, reloading.
+[INFO] 2022-08-16 09:25:12,450 [MainThread:4578956800] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-16 09:26:38,697 [MainThread:4578956800] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/users/api.py changed, reloading.
+[INFO] 2022-08-16 09:26:39,110 [MainThread:4629718528] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-16 09:27:05,602 [MainThread:4629718528] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/users/api.py changed, reloading.
+[INFO] 2022-08-16 09:27:06,001 [MainThread:4683888128] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-16 09:28:22,938 [MainThread:4683888128] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/users/api.py changed, reloading.
+[INFO] 2022-08-16 09:28:23,321 [MainThread:4555318784] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-16 09:28:56,039 [Thread-1:123145361924096] [django.server:187] [basehttp:log_message] - "POST /api/users/login HTTP/1.1" 200 141
+[INFO] 2022-08-16 09:29:01,217 [Thread-1:123145361924096] [django.server:187] [basehttp:log_message] - "POST /api/users/login HTTP/1.1" 200 141
+[INFO] 2022-08-16 09:31:13,513 [MainThread:4555318784] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/users/api.py changed, reloading.
+[INFO] 2022-08-16 09:31:13,947 [MainThread:4539684352] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-16 09:32:26,025 [MainThread:4539684352] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/backend/api.py changed, reloading.
+[INFO] 2022-08-16 09:32:26,437 [MainThread:4484122112] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[ERROR] 2022-08-16 09:33:08,146 [Thread-1:123145477795840] [django:106] [errors:_default_exception] - __init__() takes 1 positional argument but 2 were given
+Traceback (most recent call last):
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/ninja/operation.py", line 145, in _run_authentication
+    result = callback(request)
+TypeError: __init__() takes 1 positional argument but 2 were given
+[ERROR] 2022-08-16 09:33:08,148 [Thread-1:123145477795840] [django.request:241] [log:log_response] - Internal Server Error: /api/users/logout
+[ERROR] 2022-08-16 09:33:08,149 [Thread-1:123145477795840] [django.server:187] [basehttp:log_message] - "DELETE /api/users/logout HTTP/1.1" 500 286
+[INFO] 2022-08-16 09:33:26,515 [MainThread:4484122112] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/users/api.py changed, reloading.
+[INFO] 2022-08-16 09:33:27,033 [MainThread:4686480896] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-16 09:33:35,083 [Thread-1:123145456029696] [django.server:187] [basehttp:log_message] - "DELETE /api/users/logout HTTP/1.1" 200 69
+[INFO] 2022-08-16 09:33:52,965 [Thread-1:123145456029696] [django.server:187] [basehttp:log_message] - "POST /api/users/login HTTP/1.1" 200 141
+[INFO] 2022-08-16 09:36:21,373 [MainThread:4686480896] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/backend/api.py changed, reloading.
+[INFO] 2022-08-16 09:36:21,973 [MainThread:4459992576] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-16 09:38:01,493 [MainThread:4459992576] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/users/api.py changed, reloading.
+[INFO] 2022-08-16 09:38:02,112 [MainThread:4457051648] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[WARNING] 2022-08-16 09:38:20,943 [Thread-1:123145363324928] [django.request:241] [log:log_response] - Unauthorized: /api/users/info
+[WARNING] 2022-08-16 09:38:20,944 [Thread-1:123145363324928] [django.server:187] [basehttp:log_message] - "GET /api/users/info HTTP/1.1" 401 26
+[INFO] 2022-08-16 09:39:01,685 [Thread-1:123145363324928] [django.server:187] [basehttp:log_message] - "GET /api/users/info HTTP/1.1" 200 96
+[INFO] 2022-08-16 09:39:12,316 [MainThread:4457051648] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/users/api.py changed, reloading.
+[INFO] 2022-08-16 09:39:12,902 [MainThread:4585248256] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[WARNING] 2022-08-16 09:39:17,940 [Thread-1:123145346785280] [django.request:241] [log:log_response] - Unauthorized: /api/users/logout
+[WARNING] 2022-08-16 09:39:17,941 [Thread-1:123145346785280] [django.server:187] [basehttp:log_message] - "DELETE /api/users/logout HTTP/1.1" 401 26
+[INFO] 2022-08-16 09:39:39,803 [Thread-1:123145346785280] [django.server:187] [basehttp:log_message] - "DELETE /api/users/logout HTTP/1.1" 200 69
+[WARNING] 2022-08-16 09:40:54,946 [Thread-1:123145346785280] [django.request:241] [log:log_response] - Unauthorized: /api/users/info
+[WARNING] 2022-08-16 09:40:54,947 [Thread-1:123145346785280] [django.server:187] [basehttp:log_message] - "GET /api/users/info HTTP/1.1" 401 36
+[INFO] 2022-08-16 09:43:30,135 [MainThread:4585248256] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/backend/api.py changed, reloading.
+[INFO] 2022-08-16 09:43:30,793 [MainThread:4543264256] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-16 09:43:55,410 [MainThread:4543264256] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/backend/api.py changed, reloading.
+[INFO] 2022-08-16 09:43:55,814 [MainThread:4410902016] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-16 09:45:49,316 [MainThread:4410902016] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/backend/api.py changed, reloading.
+[INFO] 2022-08-16 09:45:49,833 [MainThread:4555159040] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-16 09:46:49,822 [MainThread:4555159040] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/backend/api.py changed, reloading.
+[INFO] 2022-08-16 09:46:50,406 [MainThread:4608296448] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-16 09:47:42,698 [Thread-1:123145552007168] [django.server:187] [basehttp:log_message] - "POST /api/users/login HTTP/1.1" 200 141
+[INFO] 2022-08-16 09:48:19,766 [MainThread:4608296448] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/backend/api.py changed, reloading.
+[INFO] 2022-08-16 09:48:20,291 [MainThread:4444149248] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-16 09:48:23,955 [Thread-1:123145521405952] [django.server:187] [basehttp:log_message] - "POST /api/users/login HTTP/1.1" 200 141
+[INFO] 2022-08-16 09:51:11,533 [MainThread:4444149248] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/backend/settings.py changed, reloading.
+[INFO] 2022-08-16 09:51:12,079 [MainThread:4722914816] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-16 09:51:30,712 [MainThread:4722914816] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/backend/settings.py changed, reloading.
+[INFO] 2022-08-16 09:51:31,160 [MainThread:4551280128] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-16 09:52:15,971 [MainThread:4551280128] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/backend/api.py changed, reloading.
+[INFO] 2022-08-16 09:52:16,443 [MainThread:4644558336] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-16 09:55:30,895 [MainThread:4644558336] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/backend/api.py changed, reloading.
+[INFO] 2022-08-16 09:55:31,425 [MainThread:4549752320] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-16 09:55:36,831 [MainThread:4549752320] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/backend/api.py changed, reloading.
+[INFO] 2022-08-16 09:55:37,226 [MainThread:4459136512] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-16 09:55:42,616 [MainThread:4459136512] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/backend/api.py changed, reloading.
+[INFO] 2022-08-16 09:55:43,186 [MainThread:4523107840] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-16 09:55:55,654 [MainThread:4523107840] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/backend/api.py changed, reloading.
+[INFO] 2022-08-16 09:55:56,043 [MainThread:4490659328] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-16 09:56:00,420 [MainThread:4490659328] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/backend/api.py changed, reloading.
+[INFO] 2022-08-16 09:56:00,839 [MainThread:4543641088] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[WARNING] 2022-08-16 10:13:59,043 [Thread-1:123145470029824] [django.request:241] [log:log_response] - Unauthorized: /api/users/info
+[WARNING] 2022-08-16 10:13:59,045 [Thread-1:123145470029824] [django.server:187] [basehttp:log_message] - "GET /api/users/info?token=admin-token HTTP/1.1" 401 26
+[INFO] 2022-08-16 10:14:22,466 [Thread-2:123145470029824] [django.server:187] [basehttp:log_message] - "POST /api/users/login HTTP/1.1" 200 123
+[INFO] 2022-08-16 10:15:36,472 [Thread-3:123145470029824] [django.server:187] [basehttp:log_message] - "POST /api/users/login HTTP/1.1" 200 141
+[INFO] 2022-08-16 10:18:15,289 [Thread-4:123145470029824] [django.server:187] [basehttp:log_message] - "POST /api/users/login HTTP/1.1" 200 141
+[INFO] 2022-08-16 10:31:45,526 [Thread-5:123145470029824] [django.server:187] [basehttp:log_message] - "POST /api/users/login HTTP/1.1" 200 141
+[INFO] 2022-08-16 10:45:59,127 [Thread-6:123145470029824] [django.server:187] [basehttp:log_message] - "POST /api/users/login HTTP/1.1" 200 141
+[INFO] 2022-08-16 10:46:30,392 [Thread-7:123145470029824] [django.server:187] [basehttp:log_message] - "POST /api/users/login HTTP/1.1" 200 141
+[INFO] 2022-08-16 10:46:36,297 [Thread-8:123145470029824] [django.server:187] [basehttp:log_message] - "POST /api/users/login HTTP/1.1" 200 141
+[INFO] 2022-08-16 10:46:40,709 [Thread-9:123145470029824] [django.server:187] [basehttp:log_message] - "POST /api/users/login HTTP/1.1" 200 141
+[INFO] 2022-08-17 02:13:50,492 [Thread-10:123145470029824] [django.server:187] [basehttp:log_message] - "POST /api/users/login HTTP/1.1" 200 141
+[INFO] 2022-08-17 02:14:13,671 [Thread-10:123145470029824] [django.server:187] [basehttp:log_message] - "GET /api/users/info HTTP/1.1" 200 96
+[INFO] 2022-08-17 02:14:25,263 [Thread-11:123145486819328] [django.server:187] [basehttp:log_message] - "POST /api/users/login HTTP/1.1" 200 141
+[INFO] 2022-08-17 02:14:39,406 [Thread-12:123145486819328] [django.server:187] [basehttp:log_message] - "POST /api/users/login HTTP/1.1" 200 141
+[INFO] 2022-08-17 02:20:11,923 [Thread-13:123145486819328] [django.server:187] [basehttp:log_message] - "POST /api/users/login HTTP/1.1" 200 141
+[INFO] 2022-08-17 03:27:08,954 [Thread-14:123145486819328] [django.server:187] [basehttp:log_message] - "POST /api/users/login HTTP/1.1" 200 141
+[INFO] 2022-08-17 03:27:10,478 [Thread-15:123145486819328] [django.server:187] [basehttp:log_message] - "POST /api/users/login HTTP/1.1" 200 141
+[INFO] 2022-08-17 03:30:05,719 [Thread-16:123145486819328] [django.server:187] [basehttp:log_message] - "POST /api/users/login HTTP/1.1" 200 141
+[INFO] 2022-08-17 03:31:21,755 [Thread-17:123145486819328] [django.server:187] [basehttp:log_message] - "POST /api/users/login HTTP/1.1" 200 141
+[INFO] 2022-08-17 03:31:22,477 [Thread-18:123145486819328] [django.server:187] [basehttp:log_message] - "POST /api/users/login HTTP/1.1" 200 141
+[INFO] 2022-08-17 03:31:23,379 [Thread-19:123145486819328] [django.server:187] [basehttp:log_message] - "POST /api/users/login HTTP/1.1" 200 141
+[INFO] 2022-08-17 03:31:24,081 [Thread-20:123145486819328] [django.server:187] [basehttp:log_message] - "POST /api/users/login HTTP/1.1" 200 141
+[INFO] 2022-08-17 03:36:56,712 [Thread-21:123145486819328] [django.server:187] [basehttp:log_message] - "POST /api/users/login HTTP/1.1" 200 141
+[INFO] 2022-08-17 03:39:39,273 [Thread-22:123145486819328] [django.server:187] [basehttp:log_message] - "POST /api/users/login HTTP/1.1" 200 141
+[INFO] 2022-08-17 03:39:40,663 [Thread-23:123145486819328] [django.server:187] [basehttp:log_message] - "POST /api/users/login HTTP/1.1" 200 141
+[INFO] 2022-08-17 06:10:29,140 [Thread-24:123145486819328] [django.server:187] [basehttp:log_message] - "POST /api/users/login HTTP/1.1" 200 141
+[INFO] 2022-08-17 06:15:49,428 [Thread-25:123145486819328] [django.server:187] [basehttp:log_message] - "POST /api/users/login HTTP/1.1" 200 141
+[INFO] 2022-08-17 06:15:50,411 [Thread-26:123145486819328] [django.server:187] [basehttp:log_message] - "POST /api/users/login HTTP/1.1" 200 141
+[INFO] 2022-08-17 06:15:51,520 [Thread-27:123145486819328] [django.server:187] [basehttp:log_message] - "POST /api/users/login HTTP/1.1" 200 141
+[INFO] 2022-08-17 06:15:53,456 [Thread-28:123145486819328] [django.server:187] [basehttp:log_message] - "POST /api/users/login HTTP/1.1" 200 141
+[INFO] 2022-08-17 06:16:05,080 [Thread-29:123145486819328] [django.server:187] [basehttp:log_message] - "POST /api/users/login HTTP/1.1" 200 141
+[INFO] 2022-08-17 06:16:11,178 [Thread-30:123145486819328] [django.server:187] [basehttp:log_message] - "POST /api/users/login HTTP/1.1" 200 141
+[INFO] 2022-08-17 06:23:19,247 [Thread-31:123145486819328] [django.server:187] [basehttp:log_message] - "POST /api/users/login HTTP/1.1" 200 141
+[INFO] 2022-08-17 06:24:41,069 [Thread-32:123145486819328] [django.server:187] [basehttp:log_message] - "POST /api/users/login HTTP/1.1" 200 141
+[INFO] 2022-08-17 06:24:41,513 [Thread-33:123145486819328] [django.server:187] [basehttp:log_message] - "POST /api/users/login HTTP/1.1" 200 141
+[INFO] 2022-08-17 06:24:50,353 [Thread-34:123145486819328] [django.server:187] [basehttp:log_message] - "POST /api/users/login HTTP/1.1" 200 141
+[INFO] 2022-08-17 06:24:52,519 [Thread-35:123145486819328] [django.server:187] [basehttp:log_message] - "POST /api/users/login HTTP/1.1" 200 141
+[INFO] 2022-08-17 06:25:01,251 [Thread-36:123145486819328] [django.server:187] [basehttp:log_message] - "POST /api/users/login HTTP/1.1" 200 141
+[ERROR] 2022-08-17 06:41:20,386 [Thread-37:123145486819328] [django:106] [errors:_default_exception] - (2003, "Can't connect to MySQL server on '8.140.112.109' (timed out)")
+Traceback (most recent call last):
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/pymysql/connections.py", line 613, in connect
+    sock = socket.create_connection(
+  File "/usr/local/Cellar/python@3.9/3.9.10/Frameworks/Python.framework/Versions/3.9/lib/python3.9/socket.py", line 844, in create_connection
+    raise err
+  File "/usr/local/Cellar/python@3.9/3.9.10/Frameworks/Python.framework/Versions/3.9/lib/python3.9/socket.py", line 832, in create_connection
+    sock.connect(sa)
+socket.timeout: timed out
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/django/db/backends/base/base.py", line 282, in ensure_connection
+    self.connect()
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/django/db/backends/base/base.py", line 263, in connect
+    self.connection = self.get_new_connection(conn_params)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/django/db/backends/mysql/base.py", line 247, in get_new_connection
+    connection = Database.connect(**conn_params)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/pymysql/connections.py", line 664, in connect
+    raise exc
+pymysql.err.OperationalError: (2003, "Can't connect to MySQL server on '8.140.112.109' (timed out)")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/ninja/operation.py", line 99, in run
+    result = self.view_func(request, **values)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/users/api.py", line 47, in user_login
+    user = auth.authenticate(username=username, password=password)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/django/views/decorators/debug.py", line 42, in sensitive_variables_wrapper
+    return func(*func_args, **func_kwargs)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/django/contrib/auth/__init__.py", line 77, in authenticate
+    user = backend.authenticate(request, **credentials)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/django/contrib/auth/backends.py", line 46, in authenticate
+    user = UserModel._default_manager.get_by_natural_key(username)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/django/contrib/auth/base_user.py", line 46, in get_by_natural_key
+    return self.get(**{self.model.USERNAME_FIELD: username})
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/django/db/models/manager.py", line 85, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/django/db/models/query.py", line 646, in get
+    num = len(clone)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/django/db/models/query.py", line 376, in __len__
+    self._fetch_all()
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/django/db/models/query.py", line 1866, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/django/db/models/query.py", line 87, in __iter__
+    results = compiler.execute_sql(
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/django/db/models/sql/compiler.py", line 1393, in execute_sql
+    cursor = self.connection.cursor()
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/django/db/backends/base/base.py", line 323, in cursor
+    return self._cursor()
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/django/db/backends/base/base.py", line 299, in _cursor
+    self.ensure_connection()
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/django/db/backends/base/base.py", line 282, in ensure_connection
+    self.connect()
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/django/db/utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/django/db/backends/base/base.py", line 282, in ensure_connection
+    self.connect()
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/django/db/backends/base/base.py", line 263, in connect
+    self.connection = self.get_new_connection(conn_params)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/django/utils/asyncio.py", line 26, in inner
+    return func(*args, **kwargs)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/django/db/backends/mysql/base.py", line 247, in get_new_connection
+    connection = Database.connect(**conn_params)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/pymysql/connections.py", line 353, in __init__
+    self.connect()
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/pymysql/connections.py", line 664, in connect
+    raise exc
+django.db.utils.OperationalError: (2003, "Can't connect to MySQL server on '8.140.112.109' (timed out)")
+[ERROR] 2022-08-17 06:41:20,623 [Thread-37:123145486819328] [django.request:241] [log:log_response] - Internal Server Error: /api/users/login
+[ERROR] 2022-08-17 06:41:20,624 [Thread-37:123145486819328] [django.server:187] [basehttp:log_message] - "POST /api/users/login HTTP/1.1" 500 7037
+[INFO] 2022-08-17 07:22:11,478 [Thread-38:123145486819328] [django.server:187] [basehttp:log_message] - "POST /api/users/login HTTP/1.1" 200 141
+[INFO] 2022-08-17 07:22:20,742 [Thread-39:123145486819328] [django.server:187] [basehttp:log_message] - "POST /api/users/login HTTP/1.1" 200 141
+[INFO] 2022-08-17 07:23:33,862 [Thread-40:123145486819328] [django.server:187] [basehttp:log_message] - "POST /api/users/login HTTP/1.1" 200 141
+[INFO] 2022-08-17 07:26:01,814 [Thread-41:123145486819328] [django.server:187] [basehttp:log_message] - "POST /api/users/login HTTP/1.1" 200 141
+[INFO] 2022-08-17 07:26:22,487 [Thread-42:123145486819328] [django.server:187] [basehttp:log_message] - "POST /api/users/login HTTP/1.1" 200 141
+[INFO] 2022-08-17 07:32:44,314 [Thread-43:123145486819328] [django.server:187] [basehttp:log_message] - "POST /api/users/login HTTP/1.1" 200 141
+[INFO] 2022-08-17 07:35:49,171 [Thread-44:123145486819328] [django.server:187] [basehttp:log_message] - "POST /api/users/login HTTP/1.1" 200 141
+[INFO] 2022-08-17 07:42:55,221 [Thread-45:123145486819328] [django.server:187] [basehttp:log_message] - "POST /api/users/login HTTP/1.1" 200 141
+[INFO] 2022-08-17 07:53:31,562 [Thread-46:123145486819328] [django.server:187] [basehttp:log_message] - "POST /api/users/login HTTP/1.1" 200 141
+[INFO] 2022-08-17 07:58:31,292 [Thread-47:123145486819328] [django.server:187] [basehttp:log_message] - "POST /api/users/login HTTP/1.1" 200 141
+[INFO] 2022-08-17 08:00:48,712 [Thread-10:123145470029824] [django.server:187] [basehttp:log_message] - "DELETE /api/users/logout HTTP/1.1" 200 69
+[INFO] 2022-08-17 08:01:02,839 [Thread-48:123145486819328] [django.server:187] [basehttp:log_message] - "POST /api/users/login HTTP/1.1" 200 141
+[INFO] 2022-08-17 08:01:54,670 [Thread-10:123145470029824] [django.server:187] [basehttp:log_message] - "DELETE /api/users/logout HTTP/1.1" 200 69
+[INFO] 2022-08-17 08:02:39,417 [Thread-49:123145486819328] [django.server:187] [basehttp:log_message] - "POST /api/users/login HTTP/1.1" 200 141
+[INFO] 2022-08-17 08:03:02,712 [Thread-10:123145470029824] [django.server:187] [basehttp:log_message] - "DELETE /api/users/logout HTTP/1.1" 200 69
+[INFO] 2022-08-17 08:03:28,253 [Thread-10:123145470029824] [django.server:187] [basehttp:log_message] - "DELETE /api/users/logout HTTP/1.1" 200 69
+[INFO] 2022-08-17 08:03:31,740 [Thread-10:123145470029824] [django.server:187] [basehttp:log_message] - "POST /api/users/login HTTP/1.1" 200 141
+[INFO] 2022-08-17 08:03:43,203 [Thread-10:123145470029824] [django.server:187] [basehttp:log_message] - "GET /api/users/info HTTP/1.1" 200 96
+[INFO] 2022-08-17 08:03:53,262 [Thread-10:123145470029824] [django.server:187] [basehttp:log_message] - "DELETE /api/users/logout HTTP/1.1" 200 69
+[INFO] 2022-08-17 08:04:17,729 [Thread-10:123145470029824] [django.server:187] [basehttp:log_message] - "POST /api/users/login HTTP/1.1" 200 141
+[INFO] 2022-08-17 08:04:34,908 [Thread-10:123145470029824] [django.server:187] [basehttp:log_message] - "DELETE /api/users/logout HTTP/1.1" 200 69
+[INFO] 2022-08-17 08:14:06,616 [Thread-50:123145486819328] [django.server:187] [basehttp:log_message] - "POST /api/users/login HTTP/1.1" 200 141
+[INFO] 2022-08-17 08:15:50,555 [Thread-51:123145486819328] [django.server:187] [basehttp:log_message] - "POST /api/users/login HTTP/1.1" 200 141
+[INFO] 2022-08-17 08:27:21,315 [Thread-52:123145486819328] [django.server:187] [basehttp:log_message] - "POST /api/users/login HTTP/1.1" 200 141
+[INFO] 2022-08-17 08:29:07,497 [Thread-53:123145486819328] [django.server:187] [basehttp:log_message] - "POST /api/users/login HTTP/1.1" 200 141
+[INFO] 2022-08-17 08:30:18,136 [Thread-54:123145486819328] [django.server:187] [basehttp:log_message] - "POST /api/users/login HTTP/1.1" 200 141
+[INFO] 2022-08-17 08:31:28,004 [Thread-55:123145486819328] [django.server:187] [basehttp:log_message] - "POST /api/users/login HTTP/1.1" 200 141
+[INFO] 2022-08-17 08:32:57,024 [Thread-56:123145486819328] [django.server:187] [basehttp:log_message] - "POST /api/users/login HTTP/1.1" 200 141
+[INFO] 2022-08-17 08:33:30,393 [Thread-57:123145486819328] [django.server:187] [basehttp:log_message] - "POST /api/users/login HTTP/1.1" 200 141
+[INFO] 2022-08-17 08:35:20,703 [Thread-58:123145486819328] [django.server:187] [basehttp:log_message] - "POST /api/users/login HTTP/1.1" 200 141
+[INFO] 2022-08-17 08:35:20,818 [Thread-59:123145486819328] [django.server:187] [basehttp:log_message] - "GET /api/users/info HTTP/1.1" 200 96
+[INFO] 2022-08-17 08:37:06,429 [Thread-60:123145486819328] [django.server:187] [basehttp:log_message] - "POST /api/users/login HTTP/1.1" 200 141
+[INFO] 2022-08-17 08:37:06,547 [Thread-61:123145486819328] [django.server:187] [basehttp:log_message] - "GET /api/users/info HTTP/1.1" 200 96
+[INFO] 2022-08-17 08:37:49,618 [Thread-62:123145486819328] [django.server:187] [basehttp:log_message] - "POST /api/users/login HTTP/1.1" 200 141
+[INFO] 2022-08-17 08:37:49,743 [Thread-63:123145486819328] [django.server:187] [basehttp:log_message] - "GET /api/users/info HTTP/1.1" 200 96
+[INFO] 2022-08-17 08:38:25,102 [Thread-64:123145486819328] [django.server:187] [basehttp:log_message] - "POST /api/users/login HTTP/1.1" 200 141
+[INFO] 2022-08-17 08:38:25,223 [Thread-65:123145486819328] [django.server:187] [basehttp:log_message] - "GET /api/users/info HTTP/1.1" 200 96
+[INFO] 2022-08-17 08:39:35,974 [Thread-66:123145486819328] [django.server:187] [basehttp:log_message] - "POST /api/users/login HTTP/1.1" 200 141
+[INFO] 2022-08-17 08:39:36,084 [Thread-67:123145486819328] [django.server:187] [basehttp:log_message] - "GET /api/users/info HTTP/1.1" 200 96
+[INFO] 2022-08-17 08:46:35,985 [Thread-68:123145486819328] [django.server:187] [basehttp:log_message] - "POST /api/users/login HTTP/1.1" 200 141
+[INFO] 2022-08-17 08:46:36,086 [Thread-69:123145486819328] [django.server:187] [basehttp:log_message] - "GET /api/users/info HTTP/1.1" 200 96
+[INFO] 2022-08-17 08:58:47,015 [Thread-70:123145486819328] [django.server:187] [basehttp:log_message] - "POST /api/users/login HTTP/1.1" 200 141
+[INFO] 2022-08-17 08:58:47,131 [Thread-71:123145486819328] [django.server:187] [basehttp:log_message] - "GET /api/users/info HTTP/1.1" 200 96
+[INFO] 2022-08-17 09:02:02,396 [Thread-72:123145486819328] [django.server:187] [basehttp:log_message] - "POST /api/users/login HTTP/1.1" 200 141
+[INFO] 2022-08-17 09:02:02,519 [Thread-73:123145486819328] [django.server:187] [basehttp:log_message] - "GET /api/users/info HTTP/1.1" 200 96
+[WARNING] 2022-08-17 09:03:09,883 [Thread-74:123145486819328] [django.request:241] [log:log_response] - Unauthorized: /api/users/info
+[WARNING] 2022-08-17 09:03:09,892 [Thread-74:123145486819328] [django.server:187] [basehttp:log_message] - "GET /api/users/info HTTP/1.1" 401 26
+[INFO] 2022-08-17 09:03:12,686 [Thread-75:123145486819328] [django.server:187] [basehttp:log_message] - "POST /api/users/login HTTP/1.1" 200 123
+[WARNING] 2022-08-17 09:03:12,693 [Thread-76:123145486819328] [django.request:241] [log:log_response] - Unauthorized: /api/users/info
+[WARNING] 2022-08-17 09:03:12,693 [Thread-76:123145486819328] [django.server:187] [basehttp:log_message] - "GET /api/users/info HTTP/1.1" 401 26
+[INFO] 2022-08-18 02:21:40,807 [MainThread:4785829376] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-18 02:22:00,038 [Thread-1:123145456308224] [django.server:187] [basehttp:log_message] - "POST /api/users/login HTTP/1.1" 200 141
+[INFO] 2022-08-18 02:22:00,135 [Thread-2:123145456308224] [django.server:187] [basehttp:log_message] - "GET /api/users/info HTTP/1.1" 200 96
+[INFO] 2022-08-18 02:22:48,900 [Thread-3:123145456308224] [django.server:187] [basehttp:log_message] - "POST /api/users/login HTTP/1.1" 200 141
+[INFO] 2022-08-18 02:22:49,024 [Thread-4:123145456308224] [django.server:187] [basehttp:log_message] - "GET /api/users/info HTTP/1.1" 200 96
+[INFO] 2022-08-18 02:30:31,125 [Thread-5:123145456308224] [django.server:187] [basehttp:log_message] - "POST /api/users/login HTTP/1.1" 200 141
+[INFO] 2022-08-18 02:30:31,224 [Thread-6:123145456308224] [django.server:187] [basehttp:log_message] - "GET /api/users/info HTTP/1.1" 200 96
+[INFO] 2022-08-19 07:04:57,924 [Thread-7:123145456308224] [django.server:187] [basehttp:log_message] - "POST /api/users/login HTTP/1.1" 200 141
+[INFO] 2022-08-19 07:05:11,846 [MainThread:4785829376] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/backend/api_response.py changed, reloading.
+[INFO] 2022-08-19 07:05:12,578 [MainThread:4439995904] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-19 07:05:16,833 [Thread-1:123145600663552] [django.server:187] [basehttp:log_message] - "POST /api/users/login HTTP/1.1" 200 139
+[INFO] 2022-08-19 07:30:38,856 [Thread-2:123145617453056] [django.server:187] [basehttp:log_message] - "POST /api/users/login HTTP/1.1" 200 121
+[INFO] 2022-08-19 07:30:43,271 [Thread-3:123145617453056] [django.server:187] [basehttp:log_message] - "POST /api/users/login HTTP/1.1" 200 121
+[INFO] 2022-08-19 07:30:44,274 [Thread-4:123145617453056] [django.server:187] [basehttp:log_message] - "POST /api/users/login HTTP/1.1" 200 121
+[INFO] 2022-08-19 07:30:44,846 [Thread-5:123145617453056] [django.server:187] [basehttp:log_message] - "POST /api/users/login HTTP/1.1" 200 121
+[INFO] 2022-08-19 07:43:26,623 [MainThread:4686063104] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-19 07:47:18,411 [Thread-1:123145364393984] [django.server:187] [basehttp:log_message] - "POST /api/users/login HTTP/1.1" 200 139
+[INFO] 2022-08-19 07:47:18,532 [Thread-2:123145364393984] [django.server:187] [basehttp:log_message] - "GET /api/users/info HTTP/1.1" 200 94
+[INFO] 2022-08-19 07:49:00,841 [Thread-3:123145364393984] [django.server:187] [basehttp:log_message] - "GET /api/users/info HTTP/1.1" 200 94
+[INFO] 2022-08-19 07:53:58,989 [MainThread:4686063104] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/users/api.py changed, reloading.
+[INFO] 2022-08-19 07:53:59,768 [MainThread:4697236992] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-19 07:55:56,894 [MainThread:4697236992] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/backend/api_response.py changed, reloading.
+[INFO] 2022-08-19 07:55:57,395 [MainThread:4513060352] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-19 08:03:30,526 [MainThread:4761044480] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-19 08:03:37,865 [Thread-1:123145533431808] [django.server:187] [basehttp:log_message] - "POST /api/users/login HTTP/1.1" 200 139
+[INFO] 2022-08-19 08:03:37,977 [Thread-2:123145533431808] [django.server:187] [basehttp:log_message] - "GET /api/users/info HTTP/1.1" 200 119
+[INFO] 2022-08-19 08:05:11,405 [Thread-3:123145533431808] [django.server:187] [basehttp:log_message] - "GET /api/users/info HTTP/1.1" 200 119
+[INFO] 2022-08-19 08:05:11,471 [Thread-4:123145533431808] [django.server:187] [basehttp:log_message] - "GET /static/images/avatar.jpeg?imageView2/1/w/80/h/80 HTTP/1.1" 200 23695
+[INFO] 2022-08-19 08:07:50,161 [Thread-5:123145533431808] [django.server:187] [basehttp:log_message] - "GET /api/users/info HTTP/1.1" 200 119
+[INFO] 2022-08-19 08:07:50,204 [Thread-6:123145533431808] [django.server:187] [basehttp:log_message] - "GET /static/images/avatar.jpeg?imageView2/1/w/80/h/80 HTTP/1.1" 304 0
+[INFO] 2022-08-19 08:08:32,144 [Thread-7:123145533431808] [django.server:187] [basehttp:log_message] - "GET /api/users/info HTTP/1.1" 200 119
+[INFO] 2022-08-19 08:08:32,247 [Thread-8:123145533431808] [django.server:187] [basehttp:log_message] - "GET /static/images/avatar.jpeg?imageView2/1/w/80/h/80 HTTP/1.1" 304 0
+[INFO] 2022-08-19 08:12:52,824 [MainThread:4678149632] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-19 08:13:44,647 [MainThread:4678149632] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/projects/api.py changed, reloading.
+[INFO] 2022-08-19 08:13:45,000 [MainThread:4547667456] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-19 08:15:26,292 [MainThread:4547667456] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/projects/api.py changed, reloading.
+[INFO] 2022-08-19 08:15:26,779 [MainThread:4658628096] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-19 08:15:59,435 [MainThread:4658628096] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/projects/api.py changed, reloading.
+[INFO] 2022-08-19 08:15:59,772 [MainThread:4725716480] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-19 08:16:10,163 [MainThread:4725716480] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/backend/pagination.py changed, reloading.
+[INFO] 2022-08-19 08:16:10,481 [MainThread:4604700160] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-19 08:16:36,014 [MainThread:4604700160] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/projects/api.py changed, reloading.
+[INFO] 2022-08-19 08:16:36,686 [MainThread:4487124480] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-19 08:17:32,700 [MainThread:4487124480] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/projects/api.py changed, reloading.
+[INFO] 2022-08-19 08:17:33,178 [MainThread:4438296064] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-19 08:17:50,687 [MainThread:4438296064] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/projects/api.py changed, reloading.
+[INFO] 2022-08-19 08:17:51,080 [MainThread:4419163648] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-19 08:18:01,468 [MainThread:4419163648] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/projects/api.py changed, reloading.
+[INFO] 2022-08-19 08:18:01,797 [MainThread:4669531648] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-19 08:21:29,867 [Thread-1:123145436045312] [django.server:187] [basehttp:log_message] - "GET /api/users/info HTTP/1.1" 200 119
+[INFO] 2022-08-19 08:21:29,892 [Thread-2:123145436045312] [django.server:187] [basehttp:log_message] - "GET /static/images/avatar.jpeg?imageView2/1/w/80/h/80 HTTP/1.1" 304 0
+[INFO] 2022-08-19 08:22:12,521 [Thread-3:123145436045312] [django.server:187] [basehttp:log_message] - "GET /api/users/info HTTP/1.1" 200 119
+[INFO] 2022-08-19 08:22:59,651 [Thread-4:123145436045312] [django.server:187] [basehttp:log_message] - "GET /api/users/info HTTP/1.1" 200 119
+[INFO] 2022-08-19 08:23:44,008 [Thread-5:123145436045312] [django.server:187] [basehttp:log_message] - "GET /api/users/info HTTP/1.1" 200 119
+[INFO] 2022-08-19 08:23:44,032 [Thread-6:123145436045312] [django.server:187] [basehttp:log_message] - "GET /static/images/avatar.jpeg?imageView2/1/w/80/h/80 HTTP/1.1" 304 0
+[INFO] 2022-08-19 08:25:14,454 [Thread-7:123145436045312] [django.server:187] [basehttp:log_message] - "GET /api/users/info HTTP/1.1" 200 119
+[INFO] 2022-08-19 08:25:35,696 [Thread-8:123145436045312] [django.server:187] [basehttp:log_message] - "GET /api/users/info HTTP/1.1" 200 119
+[INFO] 2022-08-19 08:28:27,974 [Thread-9:123145436045312] [django.server:187] [basehttp:log_message] - "GET /api/users/info HTTP/1.1" 200 119
+[INFO] 2022-08-19 08:28:28,009 [Thread-10:123145436045312] [django.server:187] [basehttp:log_message] - "GET /static/images/avatar.jpeg?imageView2/1/w/80/h/80 HTTP/1.1" 304 0
+[ERROR] 2022-08-19 08:28:28,435 [Thread-11:123145436045312] [django:106] [errors:_default_exception] - (1146, "Table 'test.projects_project' doesn't exist")
+Traceback (most recent call last):
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/django/db/backends/mysql/base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/pymysql/cursors.py", line 148, in execute
+    result = self._query(query)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/pymysql/cursors.py", line 310, in _query
+    conn.query(q)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/pymysql/connections.py", line 548, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/pymysql/connections.py", line 775, in _read_query_result
+    result.read()
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/pymysql/connections.py", line 1156, in read
+    first_packet = self.connection._read_packet()
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/pymysql/connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/pymysql/protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/pymysql/err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.ProgrammingError: (1146, "Table 'test.projects_project' doesn't exist")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/ninja/operation.py", line 99, in run
+    result = self.view_func(request, **values)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/ninja/pagination.py", line 145, in view_with_pagination
+    result = paginator.paginate_queryset(
+  File "/Users/lvjing/web-project/test-framework-platform/backend/backend/pagination.py", line 28, in paginate_queryset
+    "total": len(queryset),
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/django/db/models/query.py", line 376, in __len__
+    self._fetch_all()
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/django/db/models/query.py", line 1866, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/django/db/models/query.py", line 87, in __iter__
+    results = compiler.execute_sql(
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/django/db/models/sql/compiler.py", line 1395, in execute_sql
+    cursor.execute(sql, params)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/django/db/backends/utils.py", line 103, in execute
+    return super().execute(sql, params)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/django/db/backends/utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/django/db/backends/utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/django/db/utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/django/db/backends/mysql/base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/pymysql/cursors.py", line 148, in execute
+    result = self._query(query)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/pymysql/cursors.py", line 310, in _query
+    conn.query(q)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/pymysql/connections.py", line 548, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/pymysql/connections.py", line 775, in _read_query_result
+    result.read()
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/pymysql/connections.py", line 1156, in read
+    first_packet = self.connection._read_packet()
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/pymysql/connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/pymysql/protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/pymysql/err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+django.db.utils.ProgrammingError: (1146, "Table 'test.projects_project' doesn't exist")
+[ERROR] 2022-08-19 08:28:28,455 [Thread-11:123145436045312] [django.request:241] [log:log_response] - Internal Server Error: /api/projects/list
+[ERROR] 2022-08-19 08:28:28,456 [Thread-11:123145436045312] [django.server:187] [basehttp:log_message] - "GET /api/projects/list?page=1&size=6 HTTP/1.1" 500 6315
+[ERROR] 2022-08-19 08:28:51,542 [Thread-12:123145436045312] [django:106] [errors:_default_exception] - (1146, "Table 'test.projects_project' doesn't exist")
+Traceback (most recent call last):
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/django/db/backends/mysql/base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/pymysql/cursors.py", line 148, in execute
+    result = self._query(query)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/pymysql/cursors.py", line 310, in _query
+    conn.query(q)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/pymysql/connections.py", line 548, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/pymysql/connections.py", line 775, in _read_query_result
+    result.read()
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/pymysql/connections.py", line 1156, in read
+    first_packet = self.connection._read_packet()
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/pymysql/connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/pymysql/protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/pymysql/err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.ProgrammingError: (1146, "Table 'test.projects_project' doesn't exist")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/ninja/operation.py", line 99, in run
+    result = self.view_func(request, **values)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/ninja/pagination.py", line 145, in view_with_pagination
+    result = paginator.paginate_queryset(
+  File "/Users/lvjing/web-project/test-framework-platform/backend/backend/pagination.py", line 28, in paginate_queryset
+    "total": len(queryset),
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/django/db/models/query.py", line 376, in __len__
+    self._fetch_all()
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/django/db/models/query.py", line 1866, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/django/db/models/query.py", line 87, in __iter__
+    results = compiler.execute_sql(
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/django/db/models/sql/compiler.py", line 1395, in execute_sql
+    cursor.execute(sql, params)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/django/db/backends/utils.py", line 103, in execute
+    return super().execute(sql, params)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/django/db/backends/utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/django/db/backends/utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/django/db/utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/django/db/backends/mysql/base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/pymysql/cursors.py", line 148, in execute
+    result = self._query(query)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/pymysql/cursors.py", line 310, in _query
+    conn.query(q)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/pymysql/connections.py", line 548, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/pymysql/connections.py", line 775, in _read_query_result
+    result.read()
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/pymysql/connections.py", line 1156, in read
+    first_packet = self.connection._read_packet()
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/pymysql/connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/pymysql/protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/pymysql/err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+django.db.utils.ProgrammingError: (1146, "Table 'test.projects_project' doesn't exist")
+[ERROR] 2022-08-19 08:28:51,552 [Thread-12:123145436045312] [django.request:241] [log:log_response] - Internal Server Error: /api/projects/list
+[ERROR] 2022-08-19 08:28:51,553 [Thread-12:123145436045312] [django.server:187] [basehttp:log_message] - "GET /api/projects/list?page=1&size=6 HTTP/1.1" 500 6315
+[INFO] 2022-08-19 08:28:59,340 [Thread-13:123145436045312] [django.server:187] [basehttp:log_message] - "GET /api/users/info HTTP/1.1" 200 119
+[ERROR] 2022-08-19 08:29:00,237 [Thread-14:123145436045312] [django:106] [errors:_default_exception] - (1146, "Table 'test.projects_project' doesn't exist")
+Traceback (most recent call last):
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/django/db/backends/mysql/base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/pymysql/cursors.py", line 148, in execute
+    result = self._query(query)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/pymysql/cursors.py", line 310, in _query
+    conn.query(q)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/pymysql/connections.py", line 548, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/pymysql/connections.py", line 775, in _read_query_result
+    result.read()
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/pymysql/connections.py", line 1156, in read
+    first_packet = self.connection._read_packet()
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/pymysql/connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/pymysql/protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/pymysql/err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.ProgrammingError: (1146, "Table 'test.projects_project' doesn't exist")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/ninja/operation.py", line 99, in run
+    result = self.view_func(request, **values)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/ninja/pagination.py", line 145, in view_with_pagination
+    result = paginator.paginate_queryset(
+  File "/Users/lvjing/web-project/test-framework-platform/backend/backend/pagination.py", line 28, in paginate_queryset
+    "total": len(queryset),
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/django/db/models/query.py", line 376, in __len__
+    self._fetch_all()
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/django/db/models/query.py", line 1866, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/django/db/models/query.py", line 87, in __iter__
+    results = compiler.execute_sql(
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/django/db/models/sql/compiler.py", line 1395, in execute_sql
+    cursor.execute(sql, params)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/django/db/backends/utils.py", line 103, in execute
+    return super().execute(sql, params)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/django/db/backends/utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/django/db/backends/utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/django/db/utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/django/db/backends/mysql/base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/pymysql/cursors.py", line 148, in execute
+    result = self._query(query)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/pymysql/cursors.py", line 310, in _query
+    conn.query(q)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/pymysql/connections.py", line 548, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/pymysql/connections.py", line 775, in _read_query_result
+    result.read()
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/pymysql/connections.py", line 1156, in read
+    first_packet = self.connection._read_packet()
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/pymysql/connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/pymysql/protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/pymysql/err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+django.db.utils.ProgrammingError: (1146, "Table 'test.projects_project' doesn't exist")
+[ERROR] 2022-08-19 08:29:00,244 [Thread-14:123145436045312] [django.request:241] [log:log_response] - Internal Server Error: /api/projects/list
+[ERROR] 2022-08-19 08:29:00,244 [Thread-14:123145436045312] [django.server:187] [basehttp:log_message] - "GET /api/projects/list?page=1&size=6 HTTP/1.1" 500 6315
+[INFO] 2022-08-19 08:32:26,591 [MainThread:4649031168] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-19 08:32:37,159 [Thread-1:123145555079168] [django.server:187] [basehttp:log_message] - "GET /api/users/info HTTP/1.1" 200 119
+[INFO] 2022-08-19 08:32:37,205 [Thread-2:123145555079168] [django.server:187] [basehttp:log_message] - "GET /static/images/avatar.jpeg?imageView2/1/w/80/h/80 HTTP/1.1" 304 0
+[ERROR] 2022-08-19 08:32:37,307 [Thread-3:123145555079168] [django:106] [errors:_default_exception] - 'items'
+Traceback (most recent call last):
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/ninja/operation.py", line 99, in run
+    result = self.view_func(request, **values)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/ninja/pagination.py", line 149, in view_with_pagination
+    result[paginator.items_attribute] = list(result[paginator.items_attribute])
+KeyError: 'items'
+[ERROR] 2022-08-19 08:32:37,308 [Thread-3:123145555079168] [django.request:241] [log:log_response] - Internal Server Error: /api/projects/list
+[ERROR] 2022-08-19 08:32:37,309 [Thread-3:123145555079168] [django.server:187] [basehttp:log_message] - "GET /api/projects/list?page=1&size=6 HTTP/1.1" 500 471
+[INFO] 2022-08-19 08:33:36,755 [MainThread:4649031168] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/backend/pagination.py changed, reloading.
+[INFO] 2022-08-19 08:33:37,260 [MainThread:4512036352] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-19 08:33:44,619 [Thread-1:123145601142784] [django.server:187] [basehttp:log_message] - "GET /api/users/info HTTP/1.1" 200 119
+[INFO] 2022-08-19 08:33:44,768 [Thread-2:123145601142784] [django.server:187] [basehttp:log_message] - "GET /api/projects/list?page=1&size=6 HTTP/1.1" 200 97
+[INFO] 2022-08-19 08:34:42,906 [Thread-3:123145601142784] [django.server:187] [basehttp:log_message] - "GET /api/projects/list?page=1&size=6 HTTP/1.1" 200 97
+[INFO] 2022-08-19 08:35:24,655 [Thread-4:123145601142784] [django.server:187] [basehttp:log_message] - "GET /api/projects/list?page=1&size=6 HTTP/1.1" 200 97
+[INFO] 2022-08-19 08:36:14,544 [Thread-5:123145601142784] [django.server:187] [basehttp:log_message] - "GET /api/users/info HTTP/1.1" 200 119
+[INFO] 2022-08-19 08:36:14,581 [Thread-6:123145601142784] [django.server:187] [basehttp:log_message] - "GET /static/images/avatar.jpeg?imageView2/1/w/80/h/80 HTTP/1.1" 304 0
+[INFO] 2022-08-19 08:36:14,695 [Thread-7:123145601142784] [django.server:187] [basehttp:log_message] - "GET /api/projects/list?page=1&size=6 HTTP/1.1" 200 97
+[INFO] 2022-08-19 08:37:09,546 [Thread-8:123145601142784] [django.server:187] [basehttp:log_message] - "GET /api/projects/list?page=1&size=6 HTTP/1.1" 200 97
+[INFO] 2022-08-19 08:37:13,570 [Thread-9:123145601142784] [django.server:187] [basehttp:log_message] - "GET /api/users/info HTTP/1.1" 200 119
+[INFO] 2022-08-19 08:37:13,721 [Thread-10:123145601142784] [django.server:187] [basehttp:log_message] - "GET /api/projects/list?page=1&size=6 HTTP/1.1" 200 97
+[INFO] 2022-08-19 08:38:15,925 [Thread-11:123145601142784] [django.server:187] [basehttp:log_message] - "POST /api/projects/create HTTP/1.1" 200 67
+[INFO] 2022-08-19 08:38:16,035 [Thread-12:123145601142784] [django.server:187] [basehttp:log_message] - "GET /api/projects/list?page=1&size=6 HTTP/1.1" 200 265
+[INFO] 2022-08-19 08:38:16,050 [Thread-13:123145601142784] [django.server:187] [basehttp:log_message] - "GET /static/images/default_project_image.jpeg HTTP/1.1" 200 20925
+[INFO] 2022-08-19 08:38:48,565 [Thread-14:123145601142784] [django.server:187] [basehttp:log_message] - "GET /api/projects/list?page=1&size=6 HTTP/1.1" 200 265
+[INFO] 2022-08-19 08:39:39,192 [Thread-15:123145601142784] [django.server:187] [basehttp:log_message] - "POST /api/commons/upload HTTP/1.1" 200 113
+[INFO] 2022-08-19 08:40:21,163 [Thread-16:123145601142784] [django.server:187] [basehttp:log_message] - "GET /api/projects/list?page=1&size=6 HTTP/1.1" 200 265
+[INFO] 2022-08-19 08:40:22,817 [Thread-17:123145601142784] [django.server:187] [basehttp:log_message] - "GET /api/users/info HTTP/1.1" 200 119
+[INFO] 2022-08-19 08:40:22,849 [Thread-18:123145601142784] [django.server:187] [basehttp:log_message] - "GET /static/images/avatar.jpeg?imageView2/1/w/80/h/80 HTTP/1.1" 304 0
+[INFO] 2022-08-19 08:40:22,947 [Thread-19:123145601142784] [django.server:187] [basehttp:log_message] - "GET /api/projects/list?page=1&size=6 HTTP/1.1" 200 265
+[INFO] 2022-08-19 08:40:41,790 [Thread-20:123145601142784] [django.server:187] [basehttp:log_message] - "POST /api/commons/upload HTTP/1.1" 200 113
+[INFO] 2022-08-19 08:40:44,149 [Thread-21:123145601142784] [django.server:187] [basehttp:log_message] - "POST /api/projects/create HTTP/1.1" 200 67
+[INFO] 2022-08-19 08:40:44,263 [Thread-22:123145601142784] [django.server:187] [basehttp:log_message] - "GET /api/projects/list?page=1&size=6 HTTP/1.1" 200 445
+[INFO] 2022-08-19 08:40:56,814 [Thread-23:123145601142784] [django.server:187] [basehttp:log_message] - "POST /api/projects/create HTTP/1.1" 200 67
+[INFO] 2022-08-19 08:40:56,984 [Thread-24:123145601142784] [django.server:187] [basehttp:log_message] - "GET /api/projects/list?page=1&size=6 HTTP/1.1" 200 615
+[INFO] 2022-08-19 08:41:25,584 [Thread-25:123145601142784] [django.server:187] [basehttp:log_message] - "POST /api/commons/upload HTTP/1.1" 200 114
+[INFO] 2022-08-19 08:41:25,596 [Thread-26:123145601142784] [django.server:187] [basehttp:log_message] - "GET /static/images/e2bb4e6c0666df6f99d6a2a58463bc37.jpeg HTTP/1.1" 200 23695
+[INFO] 2022-08-19 08:41:27,905 [Thread-27:123145601142784] [django.server:187] [basehttp:log_message] - "POST /api/projects/create HTTP/1.1" 200 67
+[INFO] 2022-08-19 08:41:28,102 [Thread-28:123145601142784] [django.server:187] [basehttp:log_message] - "GET /api/projects/list?page=1&size=6 HTTP/1.1" 200 796
+[INFO] 2022-08-19 08:41:32,434 [Thread-29:123145601142784] [django.server:187] [basehttp:log_message] - "GET /api/projects/1 HTTP/1.1" 200 233
+[INFO] 2022-08-19 08:41:34,969 [Thread-30:123145601142784] [django.server:187] [basehttp:log_message] - "GET /api/projects/list?page=1&size=6 HTTP/1.1" 200 796
+[INFO] 2022-08-19 08:41:36,714 [Thread-31:123145601142784] [django.server:187] [basehttp:log_message] - "GET /api/projects/4 HTTP/1.1" 200 244
+[INFO] 2022-08-19 08:41:38,784 [Thread-32:123145601142784] [django.server:187] [basehttp:log_message] - "GET /api/projects/list?page=1&size=6 HTTP/1.1" 200 796
+[INFO] 2022-08-19 08:42:20,155 [Thread-33:123145601142784] [django.server:187] [basehttp:log_message] - "GET /api/projects/4 HTTP/1.1" 200 244
+[INFO] 2022-08-19 08:42:53,327 [Thread-34:123145601142784] [django.server:187] [basehttp:log_message] - "GET /api/projects/4 HTTP/1.1" 200 244
+[INFO] 2022-08-19 08:42:58,931 [Thread-35:123145601142784] [django.server:187] [basehttp:log_message] - "GET /api/projects/list?page=1&size=6 HTTP/1.1" 200 796
+[INFO] 2022-08-19 08:43:02,660 [Thread-36:123145601142784] [django.server:187] [basehttp:log_message] - "GET /api/projects/4 HTTP/1.1" 200 244
+[INFO] 2022-08-19 08:43:06,192 [Thread-37:123145601142784] [django.server:187] [basehttp:log_message] - "GET /api/projects/list?page=1&size=6 HTTP/1.1" 200 796
+[INFO] 2022-08-19 08:46:56,137 [Thread-38:123145601142784] [django.server:187] [basehttp:log_message] - "POST /api/projects/create HTTP/1.1" 200 67
+[INFO] 2022-08-19 08:46:56,292 [Thread-39:123145601142784] [django.server:187] [basehttp:log_message] - "GET /api/projects/list?page=1&size=6 HTTP/1.1" 200 966
+[INFO] 2022-08-19 08:47:08,817 [Thread-40:123145601142784] [django.server:187] [basehttp:log_message] - "POST /api/projects/create HTTP/1.1" 200 67
+[INFO] 2022-08-19 08:47:08,920 [Thread-41:123145601142784] [django.server:187] [basehttp:log_message] - "GET /api/projects/list?page=1&size=6 HTTP/1.1" 200 1136
+[INFO] 2022-08-19 08:47:19,329 [Thread-42:123145601142784] [django.server:187] [basehttp:log_message] - "POST /api/projects/create HTTP/1.1" 200 67
+[INFO] 2022-08-19 08:47:19,501 [Thread-43:123145601142784] [django.server:187] [basehttp:log_message] - "GET /api/projects/list?page=1&size=6 HTTP/1.1" 200 1136
+[INFO] 2022-08-19 08:47:21,462 [Thread-44:123145601142784] [django.server:187] [basehttp:log_message] - "GET /api/projects/list?page=2&size=6 HTTP/1.1" 200 265
+[INFO] 2022-08-19 08:47:23,619 [Thread-45:123145601142784] [django.server:187] [basehttp:log_message] - "GET /api/projects/list?page=1&size=6 HTTP/1.1" 200 1136
+[INFO] 2022-08-19 08:47:26,209 [Thread-46:123145601142784] [django.server:187] [basehttp:log_message] - "GET /api/projects/list?page=2&size=6 HTTP/1.1" 200 265
+[INFO] 2022-08-19 08:47:27,992 [Thread-47:123145601142784] [django.server:187] [basehttp:log_message] - "GET /api/projects/list?page=1&size=6 HTTP/1.1" 200 1136
+[INFO] 2022-08-19 08:47:50,637 [Thread-48:123145601142784] [django.server:187] [basehttp:log_message] - "GET /api/projects/list?page=2&size=6 HTTP/1.1" 200 265
+[INFO] 2022-08-19 08:47:52,219 [Thread-49:123145601142784] [django.server:187] [basehttp:log_message] - "GET /api/projects/list?page=1&size=6 HTTP/1.1" 200 1136
+[INFO] 2022-08-19 08:48:02,712 [Thread-50:123145601142784] [django.server:187] [basehttp:log_message] - "GET /api/projects/list?page=2&size=6 HTTP/1.1" 200 265
+[INFO] 2022-08-19 08:48:24,948 [Thread-51:123145601142784] [django.server:187] [basehttp:log_message] - "GET /api/projects/list?page=1&size=6 HTTP/1.1" 200 1136
+[INFO] 2022-08-19 08:48:24,966 [Thread-52:123145601142784] [django.server:187] [basehttp:log_message] - "GET /static/images/e2bb4e6c0666df6f99d6a2a58463bc37.jpeg HTTP/1.1" 304 0
+[INFO] 2022-08-19 08:48:53,723 [Thread-53:123145601142784] [django.server:187] [basehttp:log_message] - "GET /api/projects/list?page=2&size=6 HTTP/1.1" 200 265
+[INFO] 2022-08-19 08:48:57,545 [Thread-54:123145601142784] [django.server:187] [basehttp:log_message] - "GET /api/projects/list?page=1&size=6 HTTP/1.1" 200 1136
+[INFO] 2022-08-19 09:08:09,771 [Thread-55:123145601142784] [django.server:187] [basehttp:log_message] - "GET /api/projects/list?page=1&size=6 HTTP/1.1" 200 1136
+[INFO] 2022-08-19 09:08:12,287 [Thread-56:123145601142784] [django.server:187] [basehttp:log_message] - "GET /api/projects/list?page=2&size=6 HTTP/1.1" 200 265
+[INFO] 2022-08-19 09:08:18,781 [Thread-57:123145601142784] [django.server:187] [basehttp:log_message] - "DELETE /api/projects/7 HTTP/1.1" 200 67
+[INFO] 2022-08-19 09:08:20,416 [Thread-58:123145601142784] [django.server:187] [basehttp:log_message] - "GET /api/projects/list?page=2&size=6 HTTP/1.1" 200 97
+[INFO] 2022-08-19 09:08:23,691 [Thread-59:123145601142784] [django.server:187] [basehttp:log_message] - "GET /api/users/info HTTP/1.1" 200 103
+[WARNING] 2022-08-19 09:08:23,761 [Thread-60:123145601142784] [django.server:187] [basehttp:log_message] - "GET /static/images/undefined?imageView2/1/w/80/h/80 HTTP/1.1" 404 1830
+[INFO] 2022-08-19 09:08:23,834 [Thread-61:123145617932288] [django.server:187] [basehttp:log_message] - "GET /api/projects/list?page=1&size=6 HTTP/1.1" 200 1136
+[INFO] 2022-08-19 09:08:23,857 [Thread-62:123145601142784] [django.server:187] [basehttp:log_message] - "GET /static/images/default_project_image.jpeg HTTP/1.1" 304 0
+[INFO] 2022-08-19 09:08:23,858 [Thread-63:123145617932288] [django.server:187] [basehttp:log_message] - "GET /static/images/e2bb4e6c0666df6f99d6a2a58463bc37.jpeg HTTP/1.1" 304 0
+[INFO] 2022-08-20 01:58:27,348 [Thread-64:123145601142784] [django.server:187] [basehttp:log_message] - "GET /api/users/info HTTP/1.1" 200 103
+[WARNING] 2022-08-20 01:58:27,416 [Thread-65:123145601142784] [django.server:187] [basehttp:log_message] - "GET /static/images/undefined?imageView2/1/w/80/h/80 HTTP/1.1" 404 1830
+[INFO] 2022-08-20 01:58:27,494 [Thread-66:123145617932288] [django.server:187] [basehttp:log_message] - "GET /api/projects/list?page=1&size=6 HTTP/1.1" 200 1136
+[INFO] 2022-08-20 01:58:27,521 [Thread-67:123145601142784] [django.server:187] [basehttp:log_message] - "GET /static/images/default_project_image.jpeg HTTP/1.1" 304 0
+[INFO] 2022-08-20 01:58:27,523 [Thread-68:123145617932288] [django.server:187] [basehttp:log_message] - "GET /static/images/e2bb4e6c0666df6f99d6a2a58463bc37.jpeg HTTP/1.1" 304 0
+[INFO] 2022-08-20 01:58:41,954 [Thread-69:123145601142784] [django.server:187] [basehttp:log_message] - "GET /api/users/info HTTP/1.1" 200 103
+[INFO] 2022-08-20 01:58:45,325 [Thread-70:123145601142784] [django.server:187] [basehttp:log_message] - "GET /api/users/info HTTP/1.1" 200 103
+[INFO] 2022-08-20 01:58:45,431 [Thread-71:123145601142784] [django.server:187] [basehttp:log_message] - "GET /api/projects/list?page=1&size=6 HTTP/1.1" 200 1136
+[INFO] 2022-08-20 01:58:51,218 [Thread-72:123145601142784] [django.server:187] [basehttp:log_message] - "GET /api/users/info HTTP/1.1" 200 103
+[WARNING] 2022-08-20 01:58:51,280 [Thread-73:123145601142784] [django.server:187] [basehttp:log_message] - "GET /static/images/undefined?imageView2/1/w/80/h/80 HTTP/1.1" 404 1830
+[INFO] 2022-08-20 01:58:51,357 [Thread-74:123145617932288] [django.server:187] [basehttp:log_message] - "GET /api/projects/list?page=1&size=6 HTTP/1.1" 200 1136
+[INFO] 2022-08-20 01:59:04,526 [Thread-75:123145601142784] [django.server:187] [basehttp:log_message] - "GET /api/users/info HTTP/1.1" 200 103
+[WARNING] 2022-08-20 01:59:04,584 [Thread-76:123145601142784] [django.server:187] [basehttp:log_message] - "GET /static/images/undefined?imageView2/1/w/80/h/80 HTTP/1.1" 404 1830
+[INFO] 2022-08-20 01:59:04,659 [Thread-77:123145617932288] [django.server:187] [basehttp:log_message] - "GET /api/projects/list?page=1&size=6 HTTP/1.1" 200 1136
+[INFO] 2022-08-20 02:00:25,877 [Thread-78:123145601142784] [django.server:187] [basehttp:log_message] - "POST /api/users/login HTTP/1.1" 200 139
+[INFO] 2022-08-20 02:00:40,419 [Thread-78:123145601142784] [django.server:187] [basehttp:log_message] - "GET /api/users/info HTTP/1.1" 200 119
+[INFO] 2022-08-20 02:01:17,913 [Thread-79:123145617932288] [django.server:187] [basehttp:log_message] - "DELETE /api/users/logout HTTP/1.1" 200 67
+[INFO] 2022-08-20 02:01:21,875 [Thread-80:123145617932288] [django.server:187] [basehttp:log_message] - "POST /api/users/login HTTP/1.1" 200 139
+[INFO] 2022-08-20 02:01:21,969 [Thread-81:123145617932288] [django.server:187] [basehttp:log_message] - "GET /api/users/info HTTP/1.1" 200 119
+[INFO] 2022-08-20 02:01:22,006 [Thread-83:123145634721792] [django.server:187] [basehttp:log_message] - "GET /static/images/avatar.jpeg?imageView2/1/w/80/h/80 HTTP/1.1" 304 0
+[INFO] 2022-08-20 02:01:22,090 [Thread-82:123145617932288] [django.server:187] [basehttp:log_message] - "GET /api/projects/list?page=1&size=6 HTTP/1.1" 200 1136
+[INFO] 2022-08-20 02:13:59,797 [Thread-84:123145617932288] [django.server:187] [basehttp:log_message] - "GET /api/projects/list?page=1&size=6 HTTP/1.1" 200 1136
+[INFO] 2022-08-20 02:14:04,196 [Thread-85:123145617932288] [django.server:187] [basehttp:log_message] - "GET /api/projects/1 HTTP/1.1" 200 233
+[INFO] 2022-08-20 02:14:08,299 [Thread-86:123145617932288] [django.server:187] [basehttp:log_message] - "GET /api/projects/list?page=1&size=6 HTTP/1.1" 200 1136
+[INFO] 2022-08-20 02:14:12,263 [Thread-87:123145617932288] [django.server:187] [basehttp:log_message] - "GET /api/projects/1 HTTP/1.1" 200 233
+[INFO] 2022-08-20 02:14:15,737 [Thread-88:123145617932288] [django.server:187] [basehttp:log_message] - "GET /api/projects/list?page=1&size=6 HTTP/1.1" 200 1136
+[INFO] 2022-08-20 02:56:15,735 [MainThread:4340278784] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-20 02:56:21,834 [Thread-1:123145348972544] [django.server:187] [basehttp:log_message] - "GET /api/users/info HTTP/1.1" 200 119
+[ERROR] 2022-08-20 02:56:21,983 [Thread-2:123145348972544] [django:106] [errors:_default_exception] - (1054, "Unknown column 'projects_project.git_name' in 'field list'")
+Traceback (most recent call last):
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/django/db/backends/mysql/base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/pymysql/cursors.py", line 148, in execute
+    result = self._query(query)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/pymysql/cursors.py", line 310, in _query
+    conn.query(q)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/pymysql/connections.py", line 548, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/pymysql/connections.py", line 775, in _read_query_result
+    result.read()
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/pymysql/connections.py", line 1156, in read
+    first_packet = self.connection._read_packet()
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/pymysql/connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/pymysql/protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/pymysql/err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.OperationalError: (1054, "Unknown column 'projects_project.git_name' in 'field list'")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/ninja/operation.py", line 99, in run
+    result = self.view_func(request, **values)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/ninja/pagination.py", line 145, in view_with_pagination
+    result = paginator.paginate_queryset(
+  File "/Users/lvjing/web-project/test-framework-platform/backend/backend/pagination.py", line 28, in paginate_queryset
+    "total": len(queryset),
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/django/db/models/query.py", line 376, in __len__
+    self._fetch_all()
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/django/db/models/query.py", line 1866, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/django/db/models/query.py", line 87, in __iter__
+    results = compiler.execute_sql(
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/django/db/models/sql/compiler.py", line 1395, in execute_sql
+    cursor.execute(sql, params)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/django/db/backends/utils.py", line 103, in execute
+    return super().execute(sql, params)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/django/db/backends/utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/django/db/backends/utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/django/db/utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/django/db/backends/mysql/base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/pymysql/cursors.py", line 148, in execute
+    result = self._query(query)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/pymysql/cursors.py", line 310, in _query
+    conn.query(q)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/pymysql/connections.py", line 548, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/pymysql/connections.py", line 775, in _read_query_result
+    result.read()
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/pymysql/connections.py", line 1156, in read
+    first_packet = self.connection._read_packet()
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/pymysql/connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/pymysql/protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/pymysql/err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+django.db.utils.OperationalError: (1054, "Unknown column 'projects_project.git_name' in 'field list'")
+[ERROR] 2022-08-20 02:56:21,998 [Thread-2:123145348972544] [django.request:241] [log:log_response] - Internal Server Error: /api/projects/list
+[ERROR] 2022-08-20 02:56:21,999 [Thread-2:123145348972544] [django.server:187] [basehttp:log_message] - "GET /api/projects/list?page=1&size=6 HTTP/1.1" 500 6345
+[ERROR] 2022-08-20 02:56:28,557 [Thread-3:123145348972544] [django:106] [errors:_default_exception] - (1054, "Unknown column 'projects_project.git_name' in 'field list'")
+Traceback (most recent call last):
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/django/db/backends/mysql/base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/pymysql/cursors.py", line 148, in execute
+    result = self._query(query)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/pymysql/cursors.py", line 310, in _query
+    conn.query(q)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/pymysql/connections.py", line 548, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/pymysql/connections.py", line 775, in _read_query_result
+    result.read()
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/pymysql/connections.py", line 1156, in read
+    first_packet = self.connection._read_packet()
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/pymysql/connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/pymysql/protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/pymysql/err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+pymysql.err.OperationalError: (1054, "Unknown column 'projects_project.git_name' in 'field list'")
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/ninja/operation.py", line 99, in run
+    result = self.view_func(request, **values)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/ninja/pagination.py", line 145, in view_with_pagination
+    result = paginator.paginate_queryset(
+  File "/Users/lvjing/web-project/test-framework-platform/backend/backend/pagination.py", line 28, in paginate_queryset
+    "total": len(queryset),
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/django/db/models/query.py", line 376, in __len__
+    self._fetch_all()
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/django/db/models/query.py", line 1866, in _fetch_all
+    self._result_cache = list(self._iterable_class(self))
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/django/db/models/query.py", line 87, in __iter__
+    results = compiler.execute_sql(
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/django/db/models/sql/compiler.py", line 1395, in execute_sql
+    cursor.execute(sql, params)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/django/db/backends/utils.py", line 103, in execute
+    return super().execute(sql, params)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/django/db/backends/utils.py", line 67, in execute
+    return self._execute_with_wrappers(
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/django/db/backends/utils.py", line 80, in _execute_with_wrappers
+    return executor(sql, params, many, context)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/django/db/utils.py", line 91, in __exit__
+    raise dj_exc_value.with_traceback(traceback) from exc_value
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/django/db/backends/utils.py", line 89, in _execute
+    return self.cursor.execute(sql, params)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/django/db/backends/mysql/base.py", line 75, in execute
+    return self.cursor.execute(query, args)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/pymysql/cursors.py", line 148, in execute
+    result = self._query(query)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/pymysql/cursors.py", line 310, in _query
+    conn.query(q)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/pymysql/connections.py", line 548, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/pymysql/connections.py", line 775, in _read_query_result
+    result.read()
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/pymysql/connections.py", line 1156, in read
+    first_packet = self.connection._read_packet()
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/pymysql/connections.py", line 725, in _read_packet
+    packet.raise_for_error()
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/pymysql/protocol.py", line 221, in raise_for_error
+    err.raise_mysql_exception(self._data)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/pymysql/err.py", line 143, in raise_mysql_exception
+    raise errorclass(errno, errval)
+django.db.utils.OperationalError: (1054, "Unknown column 'projects_project.git_name' in 'field list'")
+[ERROR] 2022-08-20 02:56:28,561 [Thread-3:123145348972544] [django.request:241] [log:log_response] - Internal Server Error: /api/projects/list
+[ERROR] 2022-08-20 02:56:28,561 [Thread-3:123145348972544] [django.server:187] [basehttp:log_message] - "GET /api/projects/list?page=1&size=6 HTTP/1.1" 500 6345
+[INFO] 2022-08-20 02:56:49,557 [MainThread:4340278784] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/projects/models.py changed, reloading.
+[INFO] 2022-08-20 02:56:50,050 [MainThread:4488259072] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-20 02:56:53,781 [Thread-1:123145336745984] [django.server:187] [basehttp:log_message] - "GET /api/users/info HTTP/1.1" 200 119
+[INFO] 2022-08-20 02:56:53,931 [Thread-2:123145336745984] [django.server:187] [basehttp:log_message] - "GET /api/projects/list?page=1&size=6 HTTP/1.1" 200 1136
+[INFO] 2022-08-20 02:56:58,793 [Thread-3:123145336745984] [django.server:187] [basehttp:log_message] - "GET /api/projects/6 HTTP/1.1" 200 210
+[INFO] 2022-08-20 02:57:07,368 [Thread-4:123145336745984] [django.server:187] [basehttp:log_message] - "POST /api/commons/upload HTTP/1.1" 200 114
+[INFO] 2022-08-20 02:57:12,146 [Thread-5:123145336745984] [django.server:187] [basehttp:log_message] - "PUT /api/projects/6 HTTP/1.1" 200 67
+[INFO] 2022-08-20 02:57:12,241 [Thread-6:123145336745984] [django.server:187] [basehttp:log_message] - "GET /api/projects/list?page=1&size=6 HTTP/1.1" 200 1147
+[INFO] 2022-08-20 02:58:03,900 [Thread-7:123145336745984] [django.server:187] [basehttp:log_message] - "GET /api/projects/5 HTTP/1.1" 200 210
+[INFO] 2022-08-20 02:58:12,300 [Thread-8:123145336745984] [django.server:187] [basehttp:log_message] - "POST /api/commons/upload HTTP/1.1" 200 121
+[INFO] 2022-08-20 02:58:20,804 [Thread-9:123145336745984] [django.server:187] [basehttp:log_message] - "POST /api/commons/upload HTTP/1.1" 200 113
+[INFO] 2022-08-20 02:58:20,824 [Thread-10:123145336745984] [django.server:187] [basehttp:log_message] - "GET /static/images/1f5dbedd9814ab82686552b563ec1e5b.png HTTP/1.1" 200 59961
+[INFO] 2022-08-20 02:58:25,278 [Thread-11:123145336745984] [django.server:187] [basehttp:log_message] - "PUT /api/projects/5 HTTP/1.1" 200 67
+[INFO] 2022-08-20 02:58:25,375 [Thread-12:123145336745984] [django.server:187] [basehttp:log_message] - "GET /api/projects/list?page=1&size=6 HTTP/1.1" 200 1157
+[INFO] 2022-08-20 06:24:55,692 [Thread-13:123145336745984] [django.server:187] [basehttp:log_message] - "GET /api/projects/list?page=1&size=6 HTTP/1.1" 200 1157
+[INFO] 2022-08-20 06:36:23,277 [Thread-14:123145336745984] [django.server:187] [basehttp:log_message] - "GET /api/users/info HTTP/1.1" 200 103
+[WARNING] 2022-08-20 06:36:23,360 [Thread-15:123145336745984] [django.server:187] [basehttp:log_message] - "GET /static/images/undefined?imageView2/1/w/80/h/80 HTTP/1.1" 404 1830
+[INFO] 2022-08-20 06:36:23,415 [Thread-16:123145353535488] [django.server:187] [basehttp:log_message] - "GET /api/projects/list?page=1&size=6 HTTP/1.1" 200 1157
+[INFO] 2022-08-20 06:36:23,440 [Thread-17:123145336745984] [django.server:187] [basehttp:log_message] - "GET /static/images/default_project_image.jpeg HTTP/1.1" 304 0
+[INFO] 2022-08-20 06:36:23,443 [Thread-19:123145370324992] [django.server:187] [basehttp:log_message] - "GET /static/images/1f5dbedd9814ab82686552b563ec1e5b.png HTTP/1.1" 304 0
+[INFO] 2022-08-20 06:36:23,444 [Thread-18:123145353535488] [django.server:187] [basehttp:log_message] - "GET /static/images/e2bb4e6c0666df6f99d6a2a58463bc37.jpeg HTTP/1.1" 200 23695
+[INFO] 2022-08-20 06:36:30,242 [Thread-20:123145336745984] [django.server:187] [basehttp:log_message] - "GET /api/projects/1 HTTP/1.1" 200 210
+[INFO] 2022-08-20 06:36:32,295 [Thread-21:123145336745984] [django.server:187] [basehttp:log_message] - "GET /api/projects/list?page=1&size=6 HTTP/1.1" 200 1157
+[INFO] 2022-08-20 06:40:50,043 [Thread-22:123145336745984] [django.server:187] [basehttp:log_message] - "GET /api/projects/list?page=1&size=6 HTTP/1.1" 200 1157
+[INFO] 2022-08-20 06:42:00,029 [MainThread:4488259072] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/projects/api.py changed, reloading.
+[INFO] 2022-08-20 06:42:00,779 [MainThread:4517975552] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-20 06:42:06,296 [MainThread:4517975552] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/projects/api.py changed, reloading.
+[INFO] 2022-08-20 06:42:06,668 [MainThread:4306929152] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-20 06:42:48,422 [MainThread:4306929152] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/projects/api.py changed, reloading.
+[INFO] 2022-08-20 06:42:48,951 [MainThread:4370793984] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-20 06:44:55,621 [MainThread:4370793984] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/projects/api.py changed, reloading.
+[INFO] 2022-08-20 06:44:56,120 [MainThread:4431758848] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-20 06:54:59,289 [MainThread:4703802880] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-20 07:13:10,764 [MainThread:4703802880] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/projects/api.py changed, reloading.
+[INFO] 2022-08-20 07:13:11,355 [MainThread:4651697664] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-20 07:42:35,918 [MainThread:4613961216] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-20 07:42:49,150 [Thread-1:123145398874112] [django.server:187] [basehttp:log_message] - "POST /api/users/login HTTP/1.1" 200 139
+[INFO] 2022-08-20 07:42:49,243 [Thread-2:123145398874112] [django.server:187] [basehttp:log_message] - "GET /api/users/info HTTP/1.1" 200 119
+[INFO] 2022-08-20 07:42:49,342 [Thread-4:123145415663616] [django.server:187] [basehttp:log_message] - "GET /static/images/avatar.jpeg?imageView2/1/w/80/h/80 HTTP/1.1" 304 0
+[INFO] 2022-08-20 07:42:49,422 [Thread-3:123145398874112] [django.server:187] [basehttp:log_message] - "GET /api/projects/list?page=1&size=6 HTTP/1.1" 200 1157
+[INFO] 2022-08-20 07:42:49,452 [Thread-5:123145398874112] [django.server:187] [basehttp:log_message] - "GET /static/images/e2bb4e6c0666df6f99d6a2a58463bc37.jpeg HTTP/1.1" 304 0
+[INFO] 2022-08-20 07:42:49,452 [Thread-6:123145415663616] [django.server:187] [basehttp:log_message] - "GET /static/images/1f5dbedd9814ab82686552b563ec1e5b.png HTTP/1.1" 304 0
+[INFO] 2022-08-20 07:42:59,285 [Thread-7:123145398874112] [django.server:187] [basehttp:log_message] - "GET /api/users/info HTTP/1.1" 200 119
+[INFO] 2022-08-20 07:42:59,445 [Thread-8:123145398874112] [django.server:187] [basehttp:log_message] - "GET /api/projects/list?page=1&size=6 HTTP/1.1" 200 1157
+[INFO] 2022-08-20 07:43:37,965 [Thread-9:123145398874112] [django.server:187] [basehttp:log_message] - "GET /api/projects/list?page=1&size=6 HTTP/1.1" 200 1157
+[INFO] 2022-08-20 07:43:42,247 [Thread-10:123145398874112] [django.server:187] [basehttp:log_message] - "GET /api/projects/list?page=1&size=6 HTTP/1.1" 200 1157
+[INFO] 2022-08-20 07:44:39,551 [Thread-11:123145398874112] [django.server:187] [basehttp:log_message] - "GET /api/users/info HTTP/1.1" 200 119
+[INFO] 2022-08-20 07:44:39,689 [Thread-12:123145398874112] [django.server:187] [basehttp:log_message] - "GET /api/projects/list?page=1&size=6 HTTP/1.1" 200 1157
+[INFO] 2022-08-20 07:44:44,907 [Thread-13:123145398874112] [django.server:187] [basehttp:log_message] - "GET /api/projects/list?page=1&size=6 HTTP/1.1" 200 1157
+[INFO] 2022-08-20 07:44:48,304 [Thread-14:123145398874112] [django.server:187] [basehttp:log_message] - "GET /api/projects/1 HTTP/1.1" 200 245
+[INFO] 2022-08-20 07:44:53,815 [Thread-15:123145398874112] [django.server:187] [basehttp:log_message] - "GET /api/projects/list?page=1&size=6 HTTP/1.1" 200 1157
+[INFO] 2022-08-20 07:48:42,231 [Thread-16:123145398874112] [django.server:187] [basehttp:log_message] - "GET /api/projects/list?page=1&size=6 HTTP/1.1" 200 1157
+[INFO] 2022-08-20 07:48:48,688 [Thread-17:123145398874112] [django.server:187] [basehttp:log_message] - "GET /api/projects/list?page=1&size=6 HTTP/1.1" 200 1157
+[INFO] 2022-08-20 07:48:51,125 [Thread-18:123145398874112] [django.server:187] [basehttp:log_message] - "GET /api/projects/1 HTTP/1.1" 200 245
+[INFO] 2022-08-20 07:49:36,192 [Thread-19:123145398874112] [django.server:187] [basehttp:log_message] - "PUT /api/projects/1 HTTP/1.1" 200 67
+[INFO] 2022-08-20 07:49:36,288 [Thread-20:123145398874112] [django.server:187] [basehttp:log_message] - "GET /api/projects/list?page=1&size=6 HTTP/1.1" 200 1165
+[INFO] 2022-08-20 07:50:00,504 [Thread-21:123145398874112] [django.server:187] [basehttp:log_message] - "GET /api/projects/1 HTTP/1.1" 200 253
+[INFO] 2022-08-20 07:51:56,150 [MainThread:4613961216] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/projects/projects_schema.py changed, reloading.
+[INFO] 2022-08-20 07:51:56,726 [MainThread:4336842240] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-20 07:52:10,507 [Thread-1:123145447948288] [django.server:187] [basehttp:log_message] - "GET /api/projects/list?page=1&size=6 HTTP/1.1" 200 1165
+[INFO] 2022-08-20 07:53:29,564 [Thread-2:123145447948288] [django.server:187] [basehttp:log_message] - "GET /api/projects/1 HTTP/1.1" 200 253
+[INFO] 2022-08-20 07:53:30,825 [Thread-3:123145447948288] [django.server:187] [basehttp:log_message] - "GET /api/projects/list?page=1&size=6 HTTP/1.1" 200 1165
+[INFO] 2022-08-20 07:53:32,958 [Thread-4:123145447948288] [django.server:187] [basehttp:log_message] - "GET /api/projects/1 HTTP/1.1" 200 253
+[INFO] 2022-08-20 07:53:48,574 [Thread-5:123145447948288] [django.server:187] [basehttp:log_message] - "PUT /api/projects/1 HTTP/1.1" 200 67
+[INFO] 2022-08-20 07:53:48,673 [Thread-6:123145447948288] [django.server:187] [basehttp:log_message] - "GET /api/projects/list?page=1&size=6 HTTP/1.1" 200 1165
+[INFO] 2022-08-20 07:56:10,087 [Thread-7:123145447948288] [django.server:187] [basehttp:log_message] - "GET /api/projects/list?page=1&size=6 HTTP/1.1" 200 1165
+[INFO] 2022-08-20 07:57:02,292 [MainThread:4336842240] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/projects/api.py changed, reloading.
+[INFO] 2022-08-20 07:57:02,859 [MainThread:4582905344] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-20 08:04:47,234 [Thread-1:123145510109184] [django.server:187] [basehttp:log_message] - "GET /api/projects/list?page=1&size=6 HTTP/1.1" 200 1165
+[WARNING] 2022-08-20 08:05:05,458 [Thread-2:123145510109184] [django.request:241] [log:log_response] - Unprocessable Entity: /api/projects/cloneundefined
+[WARNING] 2022-08-20 08:05:05,458 [Thread-2:123145510109184] [django.server:187] [basehttp:log_message] - "GET /api/projects/cloneundefined HTTP/1.1" 422 114
+[INFO] 2022-08-20 08:05:20,419 [Thread-3:123145510109184] [django.server:187] [basehttp:log_message] - "GET /api/projects/list?page=1&size=6 HTTP/1.1" 200 1165
+[WARNING] 2022-08-20 08:05:27,177 [Thread-4:123145510109184] [django.request:241] [log:log_response] - Unprocessable Entity: /api/projects/clone/undefined
+[WARNING] 2022-08-20 08:05:27,177 [Thread-4:123145510109184] [django.server:187] [basehttp:log_message] - "GET /api/projects/clone/undefined HTTP/1.1" 422 114
+[INFO] 2022-08-20 08:05:51,544 [Thread-5:123145510109184] [django.server:187] [basehttp:log_message] - "GET /api/projects/list?page=1&size=6 HTTP/1.1" 200 1165
+[INFO] 2022-08-20 08:06:32,314 [Thread-6:123145510109184] [django.server:187] [basehttp:log_message] - "GET /api/projects/list?page=1&size=6 HTTP/1.1" 200 1165
+[INFO] 2022-08-20 08:06:42,684 [Thread-7:123145510109184] [django.server:187] [basehttp:log_message] - "GET /api/projects/clone/1 HTTP/1.1" 200 67
+[INFO] 2022-08-20 08:08:36,411 [MainThread:4582905344] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/projects/api.py changed, reloading.
+[INFO] 2022-08-20 08:08:36,978 [MainThread:4676515328] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-20 08:08:50,495 [MainThread:4676515328] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/projects/api.py changed, reloading.
+[INFO] 2022-08-20 08:08:50,917 [MainThread:4468815360] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-20 08:08:59,124 [Thread-1:123145602420736] [django.server:187] [basehttp:log_message] - "GET /api/projects/clone/1 HTTP/1.1" 200 67
+[INFO] 2022-08-20 08:11:11,792 [MainThread:4468815360] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/projects/api.py changed, reloading.
+[INFO] 2022-08-20 08:11:12,569 [MainThread:4465608192] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-20 08:15:49,854 [MainThread:4465608192] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/projects/api.py changed, reloading.
+[INFO] 2022-08-20 08:15:50,384 [MainThread:4316644864] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[ERROR] 2022-08-20 08:15:58,887 [Thread-1:123145513803776] [django:106] [errors:_default_exception] - 'str' object has no attribute 'spilt'
+Traceback (most recent call last):
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/ninja/operation.py", line 99, in run
+    result = self.view_func(request, **values)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/projects/api.py", line 99, in project_clone
+    project_address_file = project.git_address.spilt('/')
+AttributeError: 'str' object has no attribute 'spilt'
+[ERROR] 2022-08-20 08:15:58,890 [Thread-1:123145513803776] [django.request:241] [log:log_response] - Internal Server Error: /api/projects/clone/1
+[ERROR] 2022-08-20 08:15:58,890 [Thread-1:123145513803776] [django.server:187] [basehttp:log_message] - "GET /api/projects/clone/1 HTTP/1.1" 500 440
+[INFO] 2022-08-20 08:16:15,084 [MainThread:4316644864] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/projects/api.py changed, reloading.
+[INFO] 2022-08-20 08:16:15,579 [MainThread:4447921664] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-20 08:16:37,174 [MainThread:4447921664] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/projects/api.py changed, reloading.
+[INFO] 2022-08-20 08:16:37,684 [MainThread:4567897600] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-20 08:16:42,905 [Thread-1:123145524125696] [django.server:187] [basehttp:log_message] - "GET /api/projects/clone/1 HTTP/1.1" 200 67
+[INFO] 2022-08-20 08:17:42,761 [MainThread:4567897600] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/projects/api.py changed, reloading.
+[INFO] 2022-08-20 08:17:43,258 [MainThread:4513842688] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-20 08:19:28,741 [MainThread:4513842688] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/projects/api.py changed, reloading.
+[INFO] 2022-08-20 08:19:29,326 [MainThread:4615267840] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-20 08:19:56,931 [Thread-1:123145359085568] [django.server:187] [basehttp:log_message] - "GET /api/projects/clone/1 HTTP/1.1" 200 67
+[INFO] 2022-08-20 08:20:19,311 [MainThread:4615267840] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/projects/api.py changed, reloading.
+[INFO] 2022-08-20 08:20:19,799 [MainThread:4559820288] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-20 08:20:24,373 [Thread-1:123145403363328] [django.server:187] [basehttp:log_message] - "GET /api/projects/clone/1 HTTP/1.1" 200 67
+[INFO] 2022-08-20 08:20:42,475 [MainThread:4559820288] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/projects/api.py changed, reloading.
+[INFO] 2022-08-20 08:20:42,945 [MainThread:4365567488] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-20 08:21:17,106 [Thread-1:123145428250624] [django.server:187] [basehttp:log_message] - "GET /api/projects/clone/1 HTTP/1.1" 200 67
+[INFO] 2022-08-20 08:23:12,970 [MainThread:4365567488] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/projects/api.py changed, reloading.
+[INFO] 2022-08-20 08:23:13,605 [MainThread:4568606208] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-20 08:23:18,379 [Thread-1:123145476280320] [django.server:187] [basehttp:log_message] - "GET /api/projects/clone/1 HTTP/1.1" 200 67
+[INFO] 2022-08-20 08:24:02,631 [MainThread:4568606208] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/projects/api.py changed, reloading.
+[INFO] 2022-08-20 08:24:03,139 [MainThread:4472034816] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-20 08:24:06,597 [MainThread:4472034816] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/projects/api.py changed, reloading.
+[INFO] 2022-08-20 08:24:07,054 [MainThread:4343862784] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-20 08:24:10,445 [Thread-1:123145589538816] [django.server:187] [basehttp:log_message] - "GET /api/projects/clone/1 HTTP/1.1" 200 67
+[INFO] 2022-08-20 08:27:39,798 [MainThread:4343862784] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/projects/api.py changed, reloading.
+[INFO] 2022-08-20 08:27:40,336 [MainThread:4632172032] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-20 08:29:20,516 [MainThread:4632172032] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/projects/api.py changed, reloading.
+[INFO] 2022-08-20 08:29:20,919 [MainThread:4310140416] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-20 08:29:27,355 [MainThread:4310140416] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/projects/api.py changed, reloading.
+[INFO] 2022-08-20 08:29:27,751 [MainThread:4538402304] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-20 08:29:30,626 [Thread-1:123145411371008] [django.server:187] [basehttp:log_message] - "GET /api/projects/clone/1 HTTP/1.1" 200 67
+[INFO] 2022-08-20 08:30:33,821 [MainThread:4538402304] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/projects/api.py changed, reloading.
+[INFO] 2022-08-20 08:30:34,251 [MainThread:4464772608] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-20 08:33:23,307 [MainThread:4464772608] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/projects/api.py changed, reloading.
+[INFO] 2022-08-20 08:33:23,818 [MainThread:4563432960] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-20 08:33:35,296 [MainThread:4563432960] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/projects/api.py changed, reloading.
+[INFO] 2022-08-20 08:33:35,699 [MainThread:4547216896] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-20 08:33:38,927 [Thread-1:123145444544512] [django.server:187] [basehttp:log_message] - "GET /api/projects/clone/1 HTTP/1.1" 200 67
+[INFO] 2022-08-20 08:38:38,266 [MainThread:4547216896] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/projects/api.py changed, reloading.
+[INFO] 2022-08-20 08:38:38,756 [MainThread:4419499520] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-20 08:40:24,167 [MainThread:4419499520] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/projects/api.py changed, reloading.
+[INFO] 2022-08-20 08:40:24,620 [MainThread:4420609536] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-20 08:40:40,127 [MainThread:4420609536] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/projects/api.py changed, reloading.
+[INFO] 2022-08-20 08:40:40,521 [MainThread:4618610176] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-20 08:43:43,762 [MainThread:4618610176] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/projects/api.py changed, reloading.
+[INFO] 2022-08-20 08:43:44,159 [MainThread:4366235136] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-20 08:44:18,239 [Thread-1:123145414279168] [django.server:187] [basehttp:log_message] - "GET /api/projects/clone/1 HTTP/1.1" 200 67
+[INFO] 2022-08-20 08:45:14,511 [MainThread:4366235136] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/projects/api.py changed, reloading.
+[INFO] 2022-08-20 08:45:15,081 [MainThread:4640323072] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-20 08:51:31,367 [MainThread:4640323072] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/backend/api_response.py changed, reloading.
+[INFO] 2022-08-20 08:51:31,923 [MainThread:4568307200] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-20 08:51:48,332 [MainThread:4568307200] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/projects/api.py changed, reloading.
+[INFO] 2022-08-20 08:51:48,738 [MainThread:4481549824] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-20 08:52:12,327 [MainThread:4481549824] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/projects/api.py changed, reloading.
+[INFO] 2022-08-20 08:52:12,708 [MainThread:4595480064] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[ERROR] 2022-08-20 08:53:44,217 [Thread-1:123145593544704] [django:106] [errors:_default_exception] - Command '['git', 'pull', 'https://github.com/SeldomQA/seldom-platform.git']' returned non-zero exit status 128.
+Traceback (most recent call last):
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/ninja/operation.py", line 99, in run
+    result = self.view_func(request, **values)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/projects/api.py", line 107, in project_clone
+    res = subprocess.check_call(['git'] + list(args), cwd=clone_project_path)
+  File "/usr/local/Cellar/python@3.9/3.9.10/Frameworks/Python.framework/Versions/3.9/lib/python3.9/subprocess.py", line 373, in check_call
+    raise CalledProcessError(retcode, cmd)
+subprocess.CalledProcessError: Command '['git', 'pull', 'https://github.com/SeldomQA/seldom-platform.git']' returned non-zero exit status 128.
+[ERROR] 2022-08-20 08:53:44,221 [Thread-1:123145593544704] [django.request:241] [log:log_response] - Internal Server Error: /api/projects/clone/1
+[ERROR] 2022-08-20 08:53:44,222 [Thread-1:123145593544704] [django.server:187] [basehttp:log_message] - "GET /api/projects/clone/1 HTTP/1.1" 500 732
+[INFO] 2022-08-20 08:55:11,948 [MainThread:4595480064] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/projects/api.py changed, reloading.
+[INFO] 2022-08-20 08:55:12,499 [MainThread:4570600960] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-20 08:56:03,424 [MainThread:4570600960] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/projects/api.py changed, reloading.
+[INFO] 2022-08-20 08:56:03,973 [MainThread:4365190656] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-20 08:56:11,225 [Thread-1:123145433432064] [django.server:187] [basehttp:log_message] - "GET /api/projects/clone/1 HTTP/1.1" 200 67
+[INFO] 2022-08-20 08:56:45,934 [MainThread:4365190656] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/projects/api.py changed, reloading.
+[INFO] 2022-08-20 08:56:46,437 [MainThread:4377142784] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-20 09:04:07,041 [MainThread:4539115008] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-20 09:07:32,519 [MainThread:4539115008] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/projects/api.py changed, reloading.
+[INFO] 2022-08-20 09:07:33,127 [MainThread:4449744384] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-20 09:07:42,736 [MainThread:4449744384] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/projects/api.py changed, reloading.
+[INFO] 2022-08-20 09:07:43,178 [MainThread:4483442176] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-20 09:08:10,775 [MainThread:4483442176] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/projects/api.py changed, reloading.
+[INFO] 2022-08-20 09:08:11,320 [MainThread:4479735296] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-20 09:08:24,667 [Thread-1:123145418285056] [django.server:187] [basehttp:log_message] - "GET /api/projects/clone/1 HTTP/1.1" 200 67
+[INFO] 2022-08-20 09:09:07,340 [MainThread:4479735296] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/projects/api.py changed, reloading.
+[INFO] 2022-08-20 09:09:07,973 [MainThread:4441232896] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-20 09:09:52,867 [MainThread:4441232896] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/projects/api.py changed, reloading.
+[INFO] 2022-08-20 09:09:53,389 [MainThread:4547855872] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-20 09:18:00,376 [MainThread:4803311104] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-20 09:18:10,664 [Thread-1:123145569501184] [django.server:187] [basehttp:log_message] - "GET /api/projects/clone/1 HTTP/1.1" 200 67
+[INFO] 2022-08-20 09:19:45,933 [MainThread:4803311104] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/projects/api.py changed, reloading.
+[INFO] 2022-08-20 09:19:46,454 [MainThread:4694218240] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-20 09:20:04,700 [Thread-1:123145486807040] [django.server:187] [basehttp:log_message] - "GET /api/projects/clone/1 HTTP/1.1" 200 109
+[INFO] 2022-08-20 09:20:33,346 [MainThread:4694218240] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/projects/api.py changed, reloading.
+[INFO] 2022-08-20 09:20:33,854 [MainThread:4698363392] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[ERROR] 2022-08-20 09:20:45,833 [Thread-1:123145382449152] [django:106] [errors:_default_exception] - expected str, bytes or os.PathLike object, not bool
+Traceback (most recent call last):
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/ninja/operation.py", line 99, in run
+    result = self.view_func(request, **values)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/projects/api.py", line 109, in project_clone
+    res = subprocess.check_call(['git'] + list(args), cwd=True)
+  File "/usr/local/Cellar/python@3.9/3.9.10/Frameworks/Python.framework/Versions/3.9/lib/python3.9/subprocess.py", line 368, in check_call
+    retcode = call(*popenargs, **kwargs)
+  File "/usr/local/Cellar/python@3.9/3.9.10/Frameworks/Python.framework/Versions/3.9/lib/python3.9/subprocess.py", line 349, in call
+    with Popen(*popenargs, **kwargs) as p:
+  File "/usr/local/Cellar/python@3.9/3.9.10/Frameworks/Python.framework/Versions/3.9/lib/python3.9/subprocess.py", line 951, in __init__
+    self._execute_child(args, executable, preexec_fn, close_fds,
+  File "/usr/local/Cellar/python@3.9/3.9.10/Frameworks/Python.framework/Versions/3.9/lib/python3.9/subprocess.py", line 1754, in _execute_child
+    self.pid = _posixsubprocess.fork_exec(
+TypeError: expected str, bytes or os.PathLike object, not bool
+[ERROR] 2022-08-20 09:20:45,837 [Thread-1:123145382449152] [django.request:241] [log:log_response] - Internal Server Error: /api/projects/clone/1
+[ERROR] 2022-08-20 09:20:45,838 [Thread-1:123145382449152] [django.server:187] [basehttp:log_message] - "GET /api/projects/clone/1 HTTP/1.1" 500 1201
+[INFO] 2022-08-20 09:20:59,554 [MainThread:4698363392] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/projects/api.py changed, reloading.
+[INFO] 2022-08-20 09:21:00,009 [MainThread:4511380992] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-20 09:21:09,090 [Thread-1:123145444761600] [django.server:187] [basehttp:log_message] - "GET /api/projects/clone/1 HTTP/1.1" 200 109
+[INFO] 2022-08-20 09:22:01,039 [MainThread:4511380992] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/projects/api.py changed, reloading.
+[INFO] 2022-08-20 09:22:01,589 [MainThread:4780185088] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-20 09:22:34,290 [MainThread:4780185088] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/projects/api.py changed, reloading.
+[INFO] 2022-08-20 09:22:34,752 [MainThread:4449920512] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-20 09:22:47,816 [Thread-1:123145387401216] [django.server:187] [basehttp:log_message] - "GET /api/projects/clone/1 HTTP/1.1" 200 109
+[INFO] 2022-08-20 09:23:17,632 [MainThread:4449920512] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/projects/api.py changed, reloading.
+[INFO] 2022-08-20 09:23:18,121 [MainThread:4555441664] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-20 09:23:52,837 [MainThread:4555441664] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/projects/api.py changed, reloading.
+[INFO] 2022-08-20 09:23:53,329 [MainThread:4552676864] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-20 09:26:32,324 [MainThread:4552676864] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/projects/api.py changed, reloading.
+[INFO] 2022-08-20 09:26:32,880 [MainThread:4413650432] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-20 09:26:38,632 [Thread-1:123145435922432] [django.server:187] [basehttp:log_message] - "GET /api/projects/clone/1 HTTP/1.1" 200 67
+[INFO] 2022-08-22 02:11:20,306 [MainThread:4517467648] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-22 02:11:41,797 [Thread-1:123145428410368] [django.server:187] [basehttp:log_message] - "POST /api/users/login HTTP/1.1" 200 139
+[INFO] 2022-08-22 02:11:41,885 [Thread-2:123145428410368] [django.server:187] [basehttp:log_message] - "GET /api/users/info HTTP/1.1" 200 119
+[INFO] 2022-08-22 02:11:41,973 [Thread-3:123145428410368] [django.server:187] [basehttp:log_message] - "GET /static/images/avatar.jpeg?imageView2/1/w/80/h/80 HTTP/1.1" 200 23695
+[INFO] 2022-08-22 02:11:43,429 [Thread-4:123145428410368] [django.server:187] [basehttp:log_message] - "GET /api/projects/list?page=1&size=6 HTTP/1.1" 200 1165
+[INFO] 2022-08-22 02:11:43,455 [Thread-5:123145428410368] [django.server:187] [basehttp:log_message] - "GET /static/images/default_project_image.jpeg HTTP/1.1" 200 20925
+[INFO] 2022-08-22 02:11:43,455 [Thread-6:123145445199872] [django.server:187] [basehttp:log_message] - "GET /static/images/4a95c3520ac17442b5e0e28a46528207.png HTTP/1.1" 200 7200
+[INFO] 2022-08-22 02:11:43,468 [Thread-7:123145428410368] [django.server:187] [basehttp:log_message] - "GET /static/images/e2bb4e6c0666df6f99d6a2a58463bc37.jpeg HTTP/1.1" 200 23695
+[INFO] 2022-08-22 02:11:43,469 [Thread-8:123145445199872] [django.server:187] [basehttp:log_message] - "GET /static/images/1f5dbedd9814ab82686552b563ec1e5b.png HTTP/1.1" 200 59961
+[INFO] 2022-08-22 02:11:56,193 [Thread-9:123145428410368] [django.server:187] [basehttp:log_message] - "GET /api/projects/clone/1 HTTP/1.1" 200 67
+[INFO] 2022-08-22 02:14:44,894 [MainThread:4517467648] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/projects/api.py changed, reloading.
+[INFO] 2022-08-22 02:14:45,420 [MainThread:4526421504] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-22 02:15:00,620 [Thread-1:123145578471424] [django.server:187] [basehttp:log_message] - "GET /api/projects/clone/1 HTTP/1.1" 200 109
+[INFO] 2022-08-22 02:15:16,081 [MainThread:4526421504] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/projects/api.py changed, reloading.
+[INFO] 2022-08-22 02:15:16,615 [MainThread:4587369984] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-22 02:15:20,979 [Thread-1:123145466667008] [django.server:187] [basehttp:log_message] - "GET /api/users/info HTTP/1.1" 200 119
+[INFO] 2022-08-22 02:15:21,252 [Thread-2:123145466667008] [django.server:187] [basehttp:log_message] - "GET /api/projects/list?page=1&size=6 HTTP/1.1" 200 1165
+[INFO] 2022-08-22 02:15:31,881 [Thread-3:123145466667008] [django.server:187] [basehttp:log_message] - "GET /api/projects/clone/1 HTTP/1.1" 200 67
+[INFO] 2022-08-22 02:15:54,525 [MainThread:4587369984] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/projects/api.py changed, reloading.
+[INFO] 2022-08-22 02:15:55,078 [MainThread:4737697280] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-22 02:49:26,790 [MainThread:4737697280] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/projects/api.py changed, reloading.
+[INFO] 2022-08-22 02:49:27,569 [MainThread:4664481280] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-22 02:50:10,359 [MainThread:4664481280] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/projects/api.py changed, reloading.
+[INFO] 2022-08-22 02:50:10,831 [MainThread:4575409664] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-22 02:50:22,000 [Thread-1:123145479196672] [django.server:187] [basehttp:log_message] - "GET /api/users/info HTTP/1.1" 200 119
+[INFO] 2022-08-22 02:50:22,179 [Thread-2:123145479196672] [django.server:187] [basehttp:log_message] - "GET /api/projects/list?page=1&size=6 HTTP/1.1" 200 1165
+[INFO] 2022-08-22 02:50:32,489 [Thread-3:123145479196672] [django.server:187] [basehttp:log_message] - "GET /api/projects/clone/1 HTTP/1.1" 200 67
+[INFO] 2022-08-22 02:50:51,751 [MainThread:4575409664] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/projects/api.py changed, reloading.
+[INFO] 2022-08-22 02:50:52,390 [MainThread:4674811392] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader
+[INFO] 2022-08-22 02:55:02,302 [MainThread:4674811392] [django.utils.autoreload:266] [autoreload:trigger_reload] - /Users/lvjing/web-project/test-framework-platform/backend/projects/api.py changed, reloading.
+[INFO] 2022-08-22 02:55:02,958 [MainThread:4414879232] [django.utils.autoreload:677] [autoreload:run_with_reloader] - Watching for file changes with StatReloader

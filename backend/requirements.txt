@@ -1,0 +1,2 @@
+django-ninja==0.18.0
+PyMySQL==1.0.2

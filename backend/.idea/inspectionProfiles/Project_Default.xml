@@ -1,0 +1,31 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N806" />
+          <option value="N801" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="test.Dog.*" />
+          <option value="projects.models.Project.objects" />
+          <option value="projects.models.Project.DoesNotExist" />
+          <option value="ninja.files.UploadedFile.name" />
+          <option value="object._meta" />
+          <option value="cases.models.Module.objects" />
+          <option value="modules.models.Module.objects" />
+          <option value="ninja.files.UploadedFile.size" />
+          <option value="ninja.files.UploadedFile.chunks" />
+          <option value="dict.get" />
+          <option value="type.without_ui" />
+          <option value="type.with_ui" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
