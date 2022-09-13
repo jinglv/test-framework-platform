@@ -5,6 +5,7 @@ from ninja.security import HttpBearer
 
 from cases.api import router as cases_router
 from commons.api import router as commons_router
+from environment.api import router as environment_router
 from projects.api import router as projects_router
 from users.api import router as users_router
 
@@ -65,6 +66,8 @@ api.add_router("/commons/", commons_router)
 api.add_router("/projects/", projects_router)
 # tags cases URI:/api/cases/xxx
 api.add_router("/cases/", cases_router)
+# tags environment URI:/api/env/xxx
+api.add_router("/env/", environment_router)
 # # tags modules URI:/api/modules/xxx
 # api.add_router("/modules/", modules_router)
 # # tags tasks URI:/api/tasks/xxx

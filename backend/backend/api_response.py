@@ -18,13 +18,14 @@ class Error:
     IMAGE_SIZE_ERROR = {"10024": "图片大小不能超过2MB"}
     JSONPATH_ERROR = {"10025": "JsonPath未能匹配到值"}
     PROJECT_ClONE_ERROR = {"10026": "项目克隆失败"}
-    PROJECT_PULL_ERROR = {"10026": "项目拉取失败"}
+    PROJECT_PULL_ERROR = {"10027": "项目拉取失败"}
+    PROJECT_DIR_NULL = {"10028": "本地项目目录不存在"}
 
-    MODULE_NAME_EXIST = {"10031": "项目中已存在模块名称"}
+    ENV_IS_NULL = {"10031": "环境为空"}
     MODULE_NO_EXIST = {"10032": "项目中模块不存在"}
     MODULE_IS_DELETE = {"10033": "项目模块已删除"}
 
-    CASE_PARAMS_ERROR = {"10041": "用例传入参数类型错误"}
+    CASE_DIR_ERROR = {"10041": "测试用例地址不存在"}
     CASE_IS_DELETE = {"10042": "测试用例已删除"}
     CASE_EXTRACT_ERROR = {"10043": "提取器校验失败"}
 

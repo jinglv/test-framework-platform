@@ -82,6 +82,19 @@ export const constantRoutes = [
   },
 
   {
+    path: '/envs',
+    component: Layout,
+    children: [
+      {
+        path: 'envs',
+        name: 'Envs',
+        component: () => import('@/views/envs/index'),
+        meta: { title: '环境管理', icon: 'envs' }
+      }
+    ]
+  },
+
+  {
     path: '/example',
     component: Layout,
     redirect: '/example/table',

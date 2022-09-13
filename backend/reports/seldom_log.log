@@ -1,0 +1,101 @@
+ 2022-09-12 06:20:10 runner.py | WARNING | Case analysis failed. test_dir.test_case.test_case_create (unittest.loader._FailedTest)
+ 2022-09-12 06:20:10 cache.py | INFO | Get cache data: admin = 098cd73a0c0620a6ea3caa424426c4840a90d56e
+ 2022-09-12 06:20:10 request.py | INFO | 
+-------------- Request -----------------[🚀]
+ 2022-09-12 06:20:10 request.py | INFO | [method]: GET      [url]: http://quick.testpub.cn/api/v1/project/ 
+ 2022-09-12 06:20:10 request.py | DEBUG | [headers]:
+ {
+  "token": "098cd73a0c0620a6ea3caa424426c4840a90d56e"
+}
+ 2022-09-12 06:20:10 request.py | DEBUG | [params]:
+ {
+  "page": 1,
+  "size": 6
+}
+ 2022-09-12 06:20:10 request.py | INFO | -------------- Response ----------------[🛬️]
+ 2022-09-12 06:20:10 request.py | WARNING | unsuccessful with status 403
+ 2022-09-12 06:20:10 request.py | DEBUG | [type]: json      [time]: 0.100662
+ 2022-09-12 06:20:10 request.py | DEBUG | [response]:
+ {
+  "detail": "token认证过期"
+}
+ 2022-09-12 06:20:10 request.py | ERROR | Execute get_project - 查询项目id failed: 403
+ 2022-09-12 06:20:10 request.py | ERROR | Execute get_project - return data.projectList[0].id is None
+ 2022-09-12 06:20:10 runner.py | SUCCESS | generated html file: file:////Users/lvjing/web-project/test-framework-platform/backend/reports/1662963610.xml
+ 2022-09-12 06:20:10 runner.py | SUCCESS | generated log file: file:////Users/lvjing/web-project/test-framework-platform/backend/reports/seldom_log.log
+ 2022-09-12 06:20:44 runner.py | WARNING | Case analysis failed. test_dir.test_case.test_case_create (unittest.loader._FailedTest)
+ 2022-09-12 06:20:44 cache.py | INFO | Get cache data: admin = 098cd73a0c0620a6ea3caa424426c4840a90d56e
+ 2022-09-12 06:20:44 request.py | INFO | 
+-------------- Request -----------------[🚀]
+ 2022-09-12 06:20:44 request.py | INFO | [method]: GET      [url]: http://quick.testpub.cn/api/v1/project/ 
+ 2022-09-12 06:20:44 request.py | DEBUG | [headers]:
+ {
+  "token": "098cd73a0c0620a6ea3caa424426c4840a90d56e"
+}
+ 2022-09-12 06:20:44 request.py | DEBUG | [params]:
+ {
+  "page": 1,
+  "size": 6
+}
+ 2022-09-12 06:20:44 runner.py | WARNING | Case analysis failed. test_dir.test_case.test_case_create (unittest.loader._FailedTest)
+ 2022-09-12 06:20:44 cache.py | INFO | Get cache data: admin = 098cd73a0c0620a6ea3caa424426c4840a90d56e
+ 2022-09-12 06:20:44 request.py | INFO | 
+-------------- Request -----------------[🚀]
+ 2022-09-12 06:20:44 request.py | INFO | [method]: GET      [url]: http://quick.testpub.cn/api/v1/project/ 
+ 2022-09-12 06:20:44 request.py | DEBUG | [headers]:
+ {
+  "token": "098cd73a0c0620a6ea3caa424426c4840a90d56e"
+}
+ 2022-09-12 06:20:44 request.py | DEBUG | [params]:
+ {
+  "page": 1,
+  "size": 6
+}
+ 2022-09-12 06:20:44 request.py | INFO | -------------- Response ----------------[🛬️]
+ 2022-09-12 06:20:44 request.py | WARNING | unsuccessful with status 403
+ 2022-09-12 06:20:44 request.py | DEBUG | [type]: json      [time]: 0.099951
+ 2022-09-12 06:20:44 request.py | DEBUG | [response]:
+ {
+  "detail": "token认证过期"
+}
+ 2022-09-12 06:20:44 request.py | ERROR | Execute get_project - 查询项目id failed: 403
+ 2022-09-12 06:20:44 request.py | ERROR | Execute get_project - return data.projectList[0].id is None
+ 2022-09-12 06:20:44 runner.py | SUCCESS | generated html file: file:////Users/lvjing/web-project/test-framework-platform/backend/reports/1662963643.xml
+ 2022-09-12 06:20:44 runner.py | SUCCESS | generated log file: file:////Users/lvjing/web-project/test-framework-platform/backend/reports/seldom_log.log
+ 2022-09-12 06:20:44 request.py | INFO | -------------- Response ----------------[🛬️]
+ 2022-09-12 06:20:44 request.py | WARNING | unsuccessful with status 403
+ 2022-09-12 06:20:44 request.py | DEBUG | [type]: json      [time]: 0.095699
+ 2022-09-12 06:20:44 request.py | DEBUG | [response]:
+ {
+  "detail": "token认证过期"
+}
+ 2022-09-12 06:20:44 request.py | ERROR | Execute get_project - 查询项目id failed: 403
+ 2022-09-12 06:20:44 request.py | ERROR | Execute get_project - return data.projectList[0].id is None
+ 2022-09-12 06:20:44 runner.py | SUCCESS | generated html file: file:////Users/lvjing/web-project/test-framework-platform/backend/reports/1662963644.xml
+ 2022-09-12 06:20:44 runner.py | SUCCESS | generated log file: file:////Users/lvjing/web-project/test-framework-platform/backend/reports/seldom_log.log
+ 2022-09-12 06:22:27 runner.py | WARNING | Case analysis failed. test_dir.test_case.test_case_create (unittest.loader._FailedTest)
+ 2022-09-12 06:22:27 cache.py | INFO | Get cache data: admin = 098cd73a0c0620a6ea3caa424426c4840a90d56e
+ 2022-09-12 06:22:27 request.py | INFO | 
+-------------- Request -----------------[🚀]
+ 2022-09-12 06:22:27 request.py | INFO | [method]: GET      [url]: http://quick.testpub.cn/api/v1/project/ 
+ 2022-09-12 06:22:27 request.py | DEBUG | [headers]:
+ {
+  "token": "098cd73a0c0620a6ea3caa424426c4840a90d56e"
+}
+ 2022-09-12 06:22:27 request.py | DEBUG | [params]:
+ {
+  "page": 1,
+  "size": 6
+}
+ 2022-09-12 06:22:27 request.py | INFO | -------------- Response ----------------[🛬️]
+ 2022-09-12 06:22:27 request.py | WARNING | unsuccessful with status 403
+ 2022-09-12 06:22:27 request.py | DEBUG | [type]: json      [time]: 0.097501
+ 2022-09-12 06:22:27 request.py | DEBUG | [response]:
+ {
+  "detail": "token认证过期"
+}
+ 2022-09-12 06:22:27 request.py | ERROR | Execute get_project - 查询项目id failed: 403
+ 2022-09-12 06:22:27 request.py | ERROR | Execute get_project - return data.projectList[0].id is None
+ 2022-09-12 06:22:27 runner.py | SUCCESS | generated html file: file:////Users/lvjing/web-project/test-framework-platform/backend/reports/1662963747.xml
+ 2022-09-12 06:22:27 runner.py | SUCCESS | generated log file: file:////Users/lvjing/web-project/test-framework-platform/backend/reports/seldom_log.log
+ 2022-09-12 06:22:28 __init__.py | INFO | running end!!

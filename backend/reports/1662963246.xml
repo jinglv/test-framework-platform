@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+    <testsuite name="test_dir.test_case.test_case_query.TestCaseQuery-20220912061406" tests="1"
+               file="test_dir/test_case/test_case_query.py" time="0.171" timestamp="2022-09-12T06:14:07" failures="0"
+               errors="1" skipped="0">
+        <testcase classname="test_dir.test_case.test_case_query.TestCaseQuery" name="test_case_check" time="0.171"
+                  timestamp="2022-09-12T06:14:07"
+                  file="git_project/seldom-api-testing/test_dir/test_case/test_case_query.py" line="29">
+            <doc><![CDATA[
+        用例数据检查
+        ]]></doc>
+            <error type="ValueError" message="项目id 不能为空"><![CDATA[Traceback (most recent call last):
+  File "/Users/lvjing/web-project/test-framework-platform/backend/git_project/seldom-api-testing/test_dir/test_case/test_case_query.py", line 39, in test_case_check
+    module_id = module.get_module(project_id)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/venv/lib/python3.9/site-packages/seldom/request.py", line 254, in wrapper
+    r = func(*args, **kwargs)
+  File "/Users/lvjing/web-project/test-framework-platform/backend/git_project/seldom-api-testing/quick_public/module/module_v1.py", line 17, in get_module
+    raise ValueError("项目id 不能为空")
+ValueError: 项目id 不能为空
+]]></error>
+            <system-out><![CDATA[2022-09-12 06:14:06 request.py | INFO |
+-------------- Request -----------------[🚀]
+2022-09-12 06:14:06 request.py | INFO | [method]: GET      [url]: http://quick.testpub.cn/api/v1/project/ 
+2022-09-12 06:14:06 request.py | DEBUG | [headers]:
+ {
+  "token": "098cd73a0c0620a6ea3caa424426c4840a90d56e"
+}
+2022-09-12 06:14:06 request.py | DEBUG | [params]:
+ {
+  "page": 1,
+  "size": 6
+}
+2022-09-12 06:14:07 request.py | INFO | -------------- Response ----------------[🛬️]
+2022-09-12 06:14:07 request.py | WARNING | unsuccessful with status 403
+2022-09-12 06:14:07 request.py | DEBUG | [type]: json      [time]: 0.097961
+2022-09-12 06:14:07 request.py | DEBUG | [response]:
+ {
+  "detail": "token认证过期"
+}
+2022-09-12 06:14:07 request.py | ERROR | Execute get_project - 查询项目id failed: 403
+2022-09-12 06:14:07 request.py | ERROR | Execute get_project - return data.projectList[0].id is None
+]]></system-out>
+        </testcase>
+    </testsuite>
+</testsuites>

@@ -1,5 +1,3 @@
-from typing import Any
-
 from ninja import Schema
 
 
@@ -20,6 +18,11 @@ class ProjectListOut(Schema):
     """
     id: int
     name: str
+    git_name: str
+    git_address: str
     describe: str
     image: str
-    create_time: Any
+    is_delete: bool
+    test_num: int
+    is_clone: int
+   

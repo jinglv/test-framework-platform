@@ -52,7 +52,7 @@
             <img
               :src="item.image"
               class="image"
-              style="height: 280px; width: 300px"
+              style="height: 235px; width: 310px"
             >
           </el-card>
         </el-col>

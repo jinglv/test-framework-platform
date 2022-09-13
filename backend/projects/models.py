@@ -11,6 +11,8 @@ class Project(models.Model):
     describe = models.TextField("描述", null=True, default="")
     image = models.CharField("图片", max_length=50, null=True)
     is_delete = models.BooleanField("状态", null=True, default=False)
+    test_num = models.IntegerField("文件数", default=0)
+    is_clone = models.IntegerField("是否克隆", default=0)  # 1-已克隆 0-未克隆
     create_time = models.DateTimeField(auto_now_add=True)
     update_time = models.DateTimeField(auto_now=True)
 

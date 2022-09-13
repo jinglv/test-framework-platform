@@ -55,3 +55,6 @@ npm run lint -- --fix
 ### uwsgi
 
 - 安装：`pip install uwsgi`
+
+## xml高亮格式化显示
+- npm install vkbeautify

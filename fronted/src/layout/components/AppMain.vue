@@ -3,7 +3,8 @@
     <transition name="fade-transform" mode="out-in">
       <el-card class="el-card-define">
         <router-view :key="key" />
-      </el-card>    </transition>
+      </el-card>
+    </transition>
   </section>
 </template>
 
@@ -28,6 +29,10 @@ export default {
 }
 .fixed-header+.app-main {
   padding-top: 50px;
+}
+.el-card-define {
+  min-height: 100%;
+  height: 100%;
 }
 </style>
 
